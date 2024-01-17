@@ -2,105 +2,156 @@
 
 **Data Privacy and Analytics Resources**
 
-"Knowledge is like a lamp lit in the darkness of ignorance." - Confucius
+"O conhecimento é como uma lâmpada acesa na escuridão da ignorância." - Confúcio
 
+Bem-vindo ao repositório do GitHub "Recursos de Privacidade de Dados e Análise"! Este repositório é uma coleção selecionada de leituras, ferramentas, estruturas e cursos online essenciais para indivíduos interessados em aprofundar-se nos domínios da privacidade de dados e análise.
+
+1. 
+   Torne-se um Cientista de Dados (Udacity)
+   - O curso de Cientista de Dados da Udacity é uma opção para aqueles que desejam experiência prática em ciência de dados. Pressupõe o entendimento de conceitos como Aprendizado de Máquina e proficiência em Python. O conhecimento em SQL, probabilidade, estatística, organização e visualização de dados (CSV e JSON) também é importante.
+   - A Udacity, sediada no Vale do Silício, possui parcerias com grandes nomes como Google, Facebook e Amazon. O curso é dividido em módulos, com uma duração estimada de 4 meses. Os alunos podem adquirir e concluir o curso dentro desse período ou optar por pagamentos mensais se precisarem de mais tempo.
+   - O curso abrange tópicos como Resolução de Problemas em Ciência de Dados, Engenharia de Software para Cientistas de Dados, Engenharia de Dados para Cientistas de Dados, Design de Experimentos e Recomendações, e Projetos de Ciência de Dados.
+2. Analista de Dados (Udacity)
+   - O curso de Analista de Dados da Udacity é focado em indivíduos que aspiram se tornar analistas de dados. Requer conhecimento em Python e SQL.
+   - O curso enfatiza o aprendizado para gerenciar e interpretar dados recebidos. É totalmente online e possui um prazo de conclusão de 4 meses, com mentoria e outras vantagens fornecidas pela instituição.
+   - Observação: Os cursos da Udacity são conduzidos em inglês, e não há legendas ou dublagem. Falantes de outros idiomas podem considerar cursos de inglês voltados para programadores.
+3. Ciência de Dados Aplicada com Python (Coursera)
+   - Oferecido pela Coursera em parceria com a Universidade de Michigan, este curso é um dos melhores na área. É adequado para aqueles que buscam aprendizado abrangente e ainda não são especialistas em Python.
+   - O curso consiste em 5 módulos, exigindo uma compreensão básica do assunto. Os módulos incluem Introdução à Ciência de Dados em Python, Gráficos e Representação de Dados em Python, Aprendizado de Máquina em Python, Mineração de Texto Aplicada em Python e Análise de Redes Sociais Aplicada em Python.
+4. Fundamentos de Ciência de Dados com Python e SQL (Coursera)
+   - Oferecido pela IBM na Coursera, este curso é projetado para iniciantes, abrangendo conceitos fundamentais em uma duração mais curta.
+   - A duração do curso é de aproximadamente 2 meses, com um compromisso semanal de 10 horas. Ele abrange Ferramentas para Ciência de Dados, Python para Ciência de Dados, IA e Desenvolvimento, Projeto Python para Ciência de Dados, Estatísticas para Ciência de Dados com Python e Banco de Dados para Ciência de Dados com Python.
+5. Cientista de Dados com Python (DataCamp)
+   - O curso Cientista de Dados com Python da DataCamp não possui pré-requisitos para aqueles que desejam aprender Ciência de Dados. Ele consiste em 90 horas de exercícios práticos e projetos.
+   - O curso abrange aproximadamente 25 módulos, incluindo limpeza, importação e manipulação de dados usando Python. Está disponível em inglês e pode ser adquirido individualmente ou em grupo.
+6. Análise de Dados no Excel (DataCamp)
+   - O curso Análise de Dados no Excel, em inglês, tem 3 módulos, sendo um gratuito. Ele abrange funções essenciais do Excel para uso e análise de dados, com duração de 4 horas e quase 50 módulos de exercícios.
+   - O curso inclui 12 aulas em vídeo sobre preparação de dados, exportação para outros sistemas e integração com atividades do setor de TI.
+7. Ciência de Dados: Visualização (edX)
+   - O curso Ciência de Dados: Visualização no edX, com duração de 8 semanas, fornece preparação introdutória em inglês. Ministrado pelo professor de bioinformática da Harvard, Rafael Irrizarry, explora a visualização e interpretação de dados, considerando vieses e erros.
+   - O curso ensina a usar o ggplot2 para criar gráficos personalizados, abordando erros comuns de visualização e fornecendo uma perspectiva analítica sobre os dados coletados.
+8. Privacidade de Dados e Tecnologia (Harvard)
+   - O curso de Privacidade de Dados e Tecnologia de Harvard explora avanços tecnológicos, discutindo a coleta e o uso de dados de terceiros. Questiona até que ponto as políticas de privacidade e o acesso anônimo realmente protegem os usuários.
+   - O curso, com duração de 5 semanas, é pago e fornece acesso a materiais do curso, aulas e certificação. Ele abrange legislação cibernética global e aprofunda-se no uso de dados no mercado.
+9. Power BI Expert na Prática (Viscari)
+   - O curso Power BI Expert na Prática da Viscari introduz a análise de dados. Com o Power BI, você aprenderá a transformar bancos de dados em relatórios dinâmicos e criar dashboards.
+   - O curso, com duração de 30 horas, é composto por 11 módulos e oferece acesso vitalício.
+10. Python para Finanças: Investimentos e Análise de Dados (Udemy)
+    - O curso Python para Finanças na Udemy ensina cálculos de risco e retorno para carteiras de investimento, criação de gráficos Matplotlib e compreensão do modelo de precificação de ativos de capital. Ele abrange metodologias básicas a avançadas.
+    - O curso inclui 17 seções e 109 palestras, totalizando 7 horas.
+11. Power BI Completo – Do Básico ao Avançado (Udemy)
+    - O curso Power BI Completo de Ciência de Dados na Udemy fornece lições passo a passo sobre tudo o que você precisa saber sobre o Power BI. Ensina a criar dashboards dinâmicos, relatórios, gráficos e mapas.
+    - O curso é 100% prático, composto por 83 palestras com duração de 10 horas.
+12. Curso de Análise de Dados e Big Data – Excel (Udemy)
+    - O curso de Análise de Dados e Big Data – Excel na Udemy oferece uma abordagem prática para aplicativos de ferramentas de cientistas de dados, cobrindo probabilidade, estatística e análise de dados para resolver problemas reais em vários campos profissionais.
+    - O curso, com duração de 12,5 horas, não requer conhecimento avançado do Excel, mas familiaridade com o programa.
+13. Arquitetura de Software, Ciência de Dados e Cibersegurança (PUCPR)
+    - O curso de Arquitetura de Software, Ciência de Dados e Cibersegurança da PUCPR desenvolve habilidades na construção de sistemas, escolha de componentes, direção de estratégias, migração e criação de ambientes seguros.
+    - O curso, com duração de 20 horas, inclui perguntas do mundo real e estratégia metacognitiva.
+14. Treinamento em Ciência de Dados (Alura)
+    - O curso de Treinamento em Ciência de Dados na Alura ensina técnicas de análise, estatísticas, modelagem e visualização de dados. Inclui acesso a três podcasts sobre o tema.
+    - A metodologia do curso abrange Python, bibliotecas e ferramentas paralelas focadas em linguagens de programação.
+    - O curso tem uma duração de 102 horas, com a participação de cinco professores.
+
+Este é um caminho rápido para começar a estudar **Ciência de Dados**. Basta seguir as etapas para responder às perguntas "O que é Ciência de Dados e o que devo estudar para aprender Ciência de Dados?"
+
+=======
+>>>>>>> origin/main
 ![Data Science" Images – Browse 33,689 Stock Photos, Vectors ...](https://t4.ftcdn.net/jpg/02/62/17/37/360_F_262173764_3sxll45SOaGP5uEC7PukV3LHOB7H8dp2.jpg)
 
-## Table of Contents
+##  Sumário
 
-- [What is Data Science?](https://github.com/academic/awesome-datascience#what-is-data-science)
-- [Where do I Start?](https://github.com/academic/awesome-datascience#where-do-i-start)
-- Training Resources
-  - [Tutorials](https://github.com/academic/awesome-datascience#tutorials)
-  - [Free Courses](https://github.com/academic/awesome-datascience#free-courses)
-  - [Massively Open Online Courses](https://github.com/academic/awesome-datascience#moocs)
-  - [Intensive Programs](https://github.com/academic/awesome-datascience#intensive-programs)
-  - [Colleges](https://github.com/academic/awesome-datascience#colleges)
-- The Data Science Toolbox
-  - Algorithms
-    - [Supervised Learning](https://github.com/academic/awesome-datascience#supervised-learning)
-    - [Unsupervised Learning](https://github.com/academic/awesome-datascience#unsupervised-learning)
-    - [Semi-Supervised Learning](https://github.com/academic/awesome-datascience#semi-supervised-learning)
-    - [Reinforcement Learning](https://github.com/academic/awesome-datascience#reinforcement-learning)
-    - [Data Mining Algorithms](https://github.com/academic/awesome-datascience#data-mining-algorithms)
-    - [Deep Learning Architectures](https://github.com/academic/awesome-datascience#deep-learning-architectures)
-  - [General Machine Learning Packages](https://github.com/academic/awesome-datascience#general-machine-learning-packages)
-  - Deep Learning Packages
-    - [PyTorch Ecosystem](https://github.com/academic/awesome-datascience#pytorch-ecosystem)
-    - [TensorFlow Ecosystem](https://github.com/academic/awesome-datascience#tensorflow-ecosystem)
-    - [Keras Ecosystem](https://github.com/academic/awesome-datascience#keras-ecosystem)
-  - [Visualization Tools](https://github.com/academic/awesome-datascience#visualization-tools)
-  - [Miscellaneous Tools](https://github.com/academic/awesome-datascience#miscellaneous-tools)
-- Literature and Media
-  - Books
-    - [Book Deals (Affiliated)](https://github.com/academic/awesome-datascience#book-deals-affiliated-)
-  - [Journals, Publications, and Magazines](https://github.com/academic/awesome-datascience#journals-publications-and-magazines)
+- [O que é Ciência de Dados?](https://github.com/academic/awesome-datascience#o-que-é-ciência-de-dados)
+- [Por onde começar?](https://github.com/academic/awesome-datascience#por-onde-começar)
+- Recursos de Treinamento
+  - [Tutoriais](https://github.com/academic/awesome-datascience#tutoriais)
+  - [Cursos Gratuitos](https://github.com/academic/awesome-datascience#cursos-gratuitos)
+  - [Cursos Online em Massa (MOOCs)](https://github.com/academic/awesome-datascience#cursos-online-em-massa-moocs)
+  - [Programas Intensivos](https://github.com/academic/awesome-datascience#programas-intensivos)
+  - [Universidades](https://github.com/academic/awesome-datascience#universidades)
+- A Caixa de Ferramentas da Ciência de Dados
+  - Algoritmos
+    - [Aprendizado Supervisionado](https://github.com/academic/awesome-datascience#aprendizado-supervisionado)
+    - [Aprendizado Não Supervisionado](https://github.com/academic/awesome-datascience#aprendizado-não-supervisionado)
+    - [Aprendizado Semi-Supervisionado](https://github.com/academic/awesome-datascience#aprendizado-semi-supervisionado)
+    - [Aprendizado por Reforço](https://github.com/academic/awesome-datascience#aprendizado-por-reforço)
+    - [Algoritmos de Mineração de Dados](https://github.com/academic/awesome-datascience#algoritmos-de-mineração-de-dados)
+    - [Arquiteturas de Aprendizado Profundo](https://github.com/academic/awesome-datascience#arquiteturas-de-aprendizado-profundo)
+  - [Pacotes Gerais de Aprendizado de Máquina](https://github.com/academic/awesome-datascience#pacotes-gerais-de-aprendizado-de-máquina)
+  - Pacotes de Aprendizado Profundo
+    - [Ecossistema PyTorch](https://github.com/academic/awesome-datascience#ecossistema-pytorch)
+    - [Ecossistema TensorFlow](https://github.com/academic/awesome-datascience#ecossistema-tensorflow)
+    - [Ecossistema Keras](https://github.com/academic/awesome-datascience#ecossistema-keras)
+  - [Ferramentas de Visualização](https://github.com/academic/awesome-datascience#ferramentas-de-visualização)
+  - [Ferramentas Diversas](https://github.com/academic/awesome-datascience#ferramentas-diversas)
+- Literatura e Mídia
+  - Livros
+    - [Ofertas de Livros (Afiliados)](https://github.com/academic/awesome-datascience#ofertas-de-livros-afiliados-)
+  - [Revistas, Publicações e Revistas](https://github.com/academic/awesome-datascience#revistas-publicações-e-revistas)
   - [Newsletters](https://github.com/academic/awesome-datascience#newsletters)
-  - [Bloggers](https://github.com/academic/awesome-datascience#bloggers)
-  - [Presentations](https://github.com/academic/awesome-datascience#presentations)
+  - [Blogueiros](https://github.com/academic/awesome-datascience#blogueiros)
+  - [Apresentações](https://github.com/academic/awesome-datascience#apresentações)
   - [Podcasts](https://github.com/academic/awesome-datascience#podcasts)
-  - [YouTube Videos & Channels](https://github.com/academic/awesome-datascience#youtube-videos--channels)
+  - [Vídeos e Canais do YouTube](https://github.com/academic/awesome-datascience#vídeos-e-canais-do-youtube)
 - Socialize
-  - [Facebook Accounts](https://github.com/academic/awesome-datascience#facebook-accounts)
-  - [Twitter Accounts](https://github.com/academic/awesome-datascience#twitter-accounts)
-  - [Telegram Channels](https://github.com/academic/awesome-datascience#telegram-channels)
-  - [Slack Communities](https://github.com/academic/awesome-datascience#slack-communities)
-  - [GitHub Groups](https://github.com/academic/awesome-datascience#github-groups)
-  - [Data Science Competitions](https://github.com/academic/awesome-datascience#data-science-competitions)
-- Fun
-  - [Infographics](https://github.com/academic/awesome-datascience#infographics)
-  - [Datasets](https://github.com/academic/awesome-datascience#datasets)
-  - [Comics](https://github.com/academic/awesome-datascience#comics)
-- Other Awesome Lists
+  - [Contas no Facebook](https://github.com/academic/awesome-datascience#contas-no-facebook)
+  - [Contas no Twitter](https://github.com/academic/awesome-datascience#contas-no-twitter)
+  - [Canais no Telegram](https://github.com/academic/awesome-datascience#canais-no-telegram)
+  - [Comunidades no Slack](https://github.com/academic/awesome-datascience#comunidades-no-slack)
+  - [Grupos no GitHub](https://github.com/academic/awesome-datascience#grupos-no-github)
+  - [Competições em Ciência de Dados](https://github.com/academic/awesome-datascience#competições-em-ciência-de-dados)
+- Diversão
+  - [Infográficos](https://github.com/academic/awesome-datascience#infográficos)
+  - [Conjuntos de Dados](https://github.com/academic/awesome-datascience#conjuntos-de-dados)
+  - [Quadrinhos](https://github.com/academic/awesome-datascience#quadrinhos)
+- Outras Listas Incríveis
   - [Hobby](https://github.com/academic/awesome-datascience#hobby)
 
-## What is Data Science?
+##  O que é Ciência de Dados?
 
-**[`^        back to top        ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
+**[`^ voltar ao topo ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
 
-Data Science is one of the hottest topics on the Computer and Internet farmland nowadays. People have gathered data from applications and systems until today and now is the time to analyze them. The next steps are producing suggestions from the data and creating predictions about the future. [Here](https://www.quora.com/Data-Science/What-is-data-science) you can find the biggest question for **Data Science** and hundreds of answers from experts.
+A Ciência de Dados é um dos tópicos mais quentes na paisagem da computação e da internet nos dias de hoje. As pessoas têm coletado dados de aplicativos e sistemas até hoje, e agora é o momento de analisá-los. Os próximos passos envolvem produzir sugestões a partir dos dados e criar previsões sobre o futuro. [Aqui](https://www.quora.com/Data-Science/What-is-data-science), você pode encontrar a maior pergunta sobre **Ciência de Dados** e centenas de respostas de especialistas.
 
-| Link                                                         | Preview                                                      |
+| Link                                                         | Visualização                                                 |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [What is Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science) | *Data scientists combine entrepreneurship with patience, the willingness to build data products incrementally, the ability to explore, and the ability to iterate over a solution. They are inherently interdisciplinary. They can tackle all aspects of a problem, from initial data collection and data conditioning to drawing conclusions. They can think outside the box to come up with new ways to view the problem, or to work with very broadly defined problems: “here’s a lot of data, what can you make from it?”* |
-| [What is Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science) | Data Science is a combination of a number of aspects of Data such as Technology, Algorithm development, and data interference to study the data, analyse it, and find innovative solutions to difficult problems. Basically Data Science is all about Analysing data and driving for business growth by finding creative ways. |
-| [The sexiest job of 21st century](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) | *Data scientists today are akin to Wall Street “quants” of the 1980s and 1990s. In those days people with backgrounds in physics and math streamed to investment banks and hedge funds, where they could devise entirely new algorithms and data strategies. Then a variety of universities developed master’s programs in financial engineering, which churned out a second generation of talent that was more accessible to mainstream firms. The pattern was repeated later in the 1990s with search engineers, whose rarefied skills soon came to be taught in computer science programs.* |
-| [Wikipedia](https://en.wikipedia.org/wiki/Data_science)      | *Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data. Data science is related to data mining, machine learning and big data.* |
-| [How to Become a Data Scientist](https://www.mastersindatascience.org/careers/data-scientist/) | *Data scientists are big data wranglers, gathering and analyzing large sets of structured and unstructured data. A data scientist’s role combines computer science, statistics, and mathematics. They analyze, process, and model data then interpret the results to create actionable plans for companies and other organizations.* |
-| [a very short history of #datascience](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/) | *The story of how data scientists became sexy is mostly the story of the coupling of the mature discipline of statistics with a very young one--computer science. The term “Data Science” has emerged only recently to specifically designate a new profession that is expected to make sense of the vast stores of big data. But making sense of data has a long history and has been discussed by scientists, statisticians, librarians, computer scientists and others for years. The following timeline traces the evolution of the term “Data Science” and its use, attempts to define it, and related terms.* |
-| [Software Development Resources for Data Scientists](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/) | *Data scientists concentrate on making sense of data through exploratory analysis, statistics, and models. Software developers apply a separate set of knowledge with different tools. Although their focus may seem unrelated, data science teams can benefit from adopting software development best practices. Version control, automated testing, and other dev skills help create reproducible, production-ready code and tools.* |
+| [O que é Data Science @ O'reilly](https://www.oreilly.com/ideas/what-is-data-science) | *Cientistas de dados combinam empreendedorismo com paciência, a disposição para construir produtos de dados incrementalmente, a habilidade de explorar e a capacidade de iterar sobre uma solução. Eles são inherentemente interdisciplinares. Podem lidar com todos os aspectos de um problema, desde a coleta inicial de dados e condicionamento de dados até a formulação de conclusões. Podem pensar fora da caixa para encontrar novas maneiras de visualizar o problema, ou para trabalhar com problemas muito amplamente definidos: "aqui está muito dado, o que você pode fazer com isso?"* |
+| [O que é Data Science @ Quora](https://www.quora.com/Data-Science/What-is-data-science) | Data Science é uma combinação de vários aspectos de Dados, como Tecnologia, Desenvolvimento de Algoritmos e interferência de dados para estudar os dados, analisá-los e encontrar soluções inovadoras para problemas difíceis. Basicamente, Data Science é tudo sobre analisar dados e impulsionar o crescimento dos negócios encontrando maneiras criativas. |
+| [O trabalho mais sexy do século 21](https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century) | *Os cientistas de dados hoje são semelhantes aos "quants" de Wall Street das décadas de 1980 e 1990. Naquela época, pessoas com formação em física e matemática migraram para bancos de investimento e fundos de hedge, onde podiam desenvolver algoritmos e estratégias de dados completamente novos. Então, várias universidades desenvolveram programas de mestrado em engenharia financeira, que geraram uma segunda geração de talentos mais acessíveis às empresas convencionais. O padrão se repetiu mais tarde na década de 1990 com engenheiros de busca, cujas habilidades raras logo passaram a ser ensinadas em programas de ciência da computação.* |
+| [Wikipedia](https://en.wikipedia.org/wiki/Data_science)      | *A ciência de dados é uma área interdisciplinar que utiliza métodos científicos, processos, algoritmos e sistemas para extrair conhecimento e insights de muitos dados estruturados e não estruturados. A ciência de dados está relacionada à mineração de dados, aprendizado de máquina e big data.* |
+| [Como se tornar um Cientista de Dados](https://www.mastersindatascience.org/careers/data-scientist/) | *Cientistas de dados são manipuladores de grandes volumes de dados, coletando e analisando conjuntos grandes de dados estruturados e não estruturados. O papel de um cientista de dados combina ciência da computação, estatísticas e matemática. Eles analisam, processam e modelam dados e interpretam os resultados para criar planos acionáveis para empresas e outras organizações.* |
+| [Uma breve história da #datascience](https://www.forbes.com/sites/gilpress/2013/05/28/a-very-short-history-of-data-science/) | *A história de como os cientistas de dados se tornaram atraentes é principalmente a história da união da disciplina madura da estatística com uma muito jovem - ciência da computação. O termo "Ciência de Dados" surgiu apenas recentemente para designar especificamente uma nova profissão que se espera fazer sentido nos vastos depósitos de big data. Mas fazer sentido dos dados tem uma longa história e tem sido discutido por cientistas, estatísticos, bibliotecários, cientistas da computação e outros por anos. A seguinte linha do tempo traça a evolução do termo "Ciência de Dados" e seu uso, tentativas de defini-lo e termos relacionados.* |
+| [Recursos de Desenvolvimento de Software para Cientistas de Dados](https://www.rstudio.com/blog/software-development-resources-for-data-scientists/) | *Cientistas de dados concentram-se em dar sentido aos dados por meio de análises exploratórias, estatísticas e modelos. Desenvolvedores de software aplicam um conjunto separado de conhecimentos com diferentes ferramentas. Embora seu foco possa parecer não relacionado, equipes de ciência de dados podem se beneficiar ao adotar as melhores práticas de desenvolvimento de software. Controle de versão, testes automatizados e outras habilidades de desenvolvimento ajudam a criar código e ferramentas reproduzíveis e prontos para produção.* |
 
-## Where do I Start?
+## Por onde começar?
 
-**[`^        back to top        ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
+**[`^ voltar ao topo ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
 
-While not strictly necessary, having a programming language is a crucial skill to be effective as a data scientist. Currently, the most popular language is *Python*, closely followed by *R*. Python is a general-purpose scripting language that sees applications in a wide variety of fields. R is a domain-specific language for statistics, which contains a lot of common statistics tools out of the box.
+Embora não seja estritamente necessário, ter conhecimento em uma linguagem de programação é uma habilidade crucial para ser eficaz como cientista de dados. Atualmente, a linguagem mais popular é o *Python*, seguido de perto pelo *R*. O Python é uma linguagem de script de propósito geral que encontra aplicações em uma ampla variedade de campos. O R é uma linguagem específica de domínio para estatísticas, que contém muitas ferramentas estatísticas comuns já integradas.
 
-[Python](https://python.org/) is by far the most popular language in science, due in no small part to the ease at which it can be used and the vibrant ecosystem of user-generated packages. To install packages, there are two main methods: Pip (invoked as `pip install`), the package manager that comes bundled with Python, and [Anaconda](https://www.anaconda.com/) (invoked as `conda install`), a powerful package manager that can install packages for Python, R, and can download executables like Git.
+[Python](https://python.org/) é, de longe, a linguagem mais popular na ciência, em grande parte devido à facilidade com que pode ser usada e ao ecossistema vibrante de pacotes gerados pelos usuários. Para instalar pacotes, existem dois métodos principais: Pip (invocado como `pip install`), o gerenciador de pacotes que vem incluso com o Python, e [Anaconda](https://www.anaconda.com/) (invocado como `conda install`), um poderoso gerenciador de pacotes que pode instalar pacotes para Python, R e baixar executáveis como Git.
 
-Unlike R, Python was not built from the ground up with data science in mind, but there are plenty of third party libraries to make up for this. A much more exhaustive list of packages can be found later in this document, but these four packages are a good set of choices to start your data science journey with: [Scikit-Learn](https://scikit-learn.org/stable/index.html) is a general-purpose data science package which implements the most popular algorithms - it also includes rich documentation, tutorials, and examples of the models it implements. Even if you prefer to write your own implementations, Scikit-Learn is a valuable reference to the nuts-and-bolts behind many of the common algorithms you'll find. With [Pandas](https://pandas.pydata.org/), one can collect and analyze their data into a convenient table format. [Numpy](https://numpy.org/) provides very fast tooling for mathematical operations, with a focus on vectors and matrices. [Seaborn](https://seaborn.pydata.org/), itself based on the [Matplotlib](https://matplotlib.org/) package, is a quick way to generate beautiful visualizations of your data, with many good defaults available out of the box, as well as a gallery showing how to produce many common visualizations of your data.
+Ao contrário do R, o Python não foi construído desde o início com a ciência de dados em mente, mas existem muitas bibliotecas de terceiros para compensar isso. Uma lista muito mais exaustiva de pacotes pode ser encontrada mais adiante neste documento, mas esses quatro pacotes são uma boa escolha para começar sua jornada em ciência de dados: [Scikit-Learn](https://scikit-learn.org/stable/index.html) é um pacote de ciência de dados de propósito geral que implementa os algoritmos mais populares - ele também inclui documentação detalhada, tutoriais e exemplos dos modelos que implementa. Mesmo que você prefira escrever suas próprias implementações, o Scikit-Learn é uma referência valiosa para os detalhes por trás de muitos dos algoritmos comuns que você encontrará. Com [Pandas](https://pandas.pydata.org/), é possível coletar e analisar dados em um formato de tabela conveniente. [Numpy](https://numpy.org/) fornece ferramentas muito rápidas para operações matemáticas, com foco em vetores e matrizes. [Seaborn](https://seaborn.pydata.org/), baseado no pacote [Matplotlib](https://matplotlib.org/), é uma maneira rápida de gerar visualizações bonitas dos seus dados, com muitas configurações padrão disponíveis e uma galeria que mostra como produzir muitas visualizações comuns dos seus dados.
 
-When embarking on your journey to becoming a data scientist, the choice of language isn't particularly important, and both Python and R have their pros and cons. Pick a language you like, and check out one of the [Free courses](https://github.com/academic/awesome-datascience#free-courses) we've listed below!
+Ao embarcar na jornada para se tornar um cientista de dados, a escolha da linguagem não é particularmente importante, e tanto o Python quanto o R têm seus prós e contras. Escolha uma linguagem que você goste e confira um dos [cursos gratuitos](https://github.com/academic/awesome-datascience#free-courses) que listamos abaixo!
 
-## Real World
+## Mundo Real
 
-**[`^        back to top        ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
+**[`^ voltar ao topo ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
 
-Data science is a powerful tool that is utilized in various fields to solve real-world problems by extracting insights and patterns from complex data.
+A ciência de dados é uma ferramenta poderosa utilizada em vários campos para resolver problemas do mundo real, extraindo insights e padrões de dados complexos.
 
-### Disaster
+### Desastre
 
-**[`^        back to top        ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
+**[`^ voltar ao topo ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
 
-- [deprem-ml](https://huggingface.co/deprem-ml) [AYA: Açık Yazılım Ağı](https://linktr.ee/acikyazilimagi) (+25k developers) is trying to help disaster response using artificial intelligence. Everything is open-sourced [afet.org](https://afet.org/).
+- [deprem-ml](https://huggingface.co/deprem-ml) [AYA: Açık Yazılım Ağı](https://linktr.ee/acikyazilimagi) (+25k desenvolvedores) está tentando ajudar na resposta a desastres usando inteligência artificial. Tudo é de código aberto [afet.org](https://afet.org/).
 
-## Training Resources
+## Recursos de Treinamento
 
-**[`^        back to top        ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
+**[`^ voltar ao topo ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
 
-How do you learn data science? By doing data science, of course! Okay, okay - that might not be particularly helpful when you're first starting out. In this section, we've listed some learning resources, in rough order from least to greatest commitment - [Tutorials](https://github.com/academic/awesome-datascience#tutorials), [Massively Open Online Courses (MOOCs)](https://github.com/academic/awesome-datascience#moocs), [Intensive Programs](https://github.com/academic/awesome-datascience#intensive-programs), and [Colleges](https://github.com/academic/awesome-datascience#colleges).
-
-### Tutorials
+Como você aprende ciência de dados? Fazendo ciência de dados, é claro! Ok, ok - isso pode não ser particularmente útil quando você está começando. Nesta seção, listamos alguns recursos de aprendizado, em uma ordem aproximada de menor para maior comprometimento - [Tutoriais](https://github.com/academic/awesome-datascience#tutorials), [Cursos Online Abertos em Massa (MOOCs)](https://github.com/academic/awesome-datascience#moocs), [Programas Intensivos](https://github.com/academic/awesome-datascience#intensive-programs) e [Faculdades](https://github.com/academic/awesome-datascience#colleges).
 
 **[`^        back to top        ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
 
@@ -445,114 +496,120 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 **[`^        back to top        ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
 
-| Link                                                         | Description                                                  |
+| Link                                                         | Descrição                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| [The Data Science Lifecycle Process](https://github.com/dslp/dslp) | The Data Science Lifecycle Process is a process for taking data science teams from Idea to Value repeatedly and sustainably. The process is documented in this repo |
-| [Data Science Lifecycle Template Repo](https://github.com/dslp/dslp-repo-template) | Template repository for data science lifecycle project       |
-| [RexMex](https://github.com/AstraZeneca/rexmex)              | A general purpose recommender metrics library for fair evaluation. |
-| [ChemicalX](https://github.com/AstraZeneca/chemicalx)        | A PyTorch based deep learning library for drug pair scoring. |
-| [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) | Representation learning on dynamic graphs.                   |
-| [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) | A graph sampling library for NetworkX with a Scikit-Learn like API. |
-| [Karate Club](https://github.com/benedekrozemberczki/karateclub) | An unsupervised machine learning extension library for NetworkX with a Scikit-Learn like API. |
-| [ML Workspace](https://github.com/ml-tooling/ml-workspace)   | All-in-one web-based IDE for machine learning and data science. The workspace is deployed as a Docker container and is preloaded with a variety of popular data science libraries (e.g., Tensorflow, PyTorch) and dev tools (e.g., Jupyter, VS Code) |
-| [Neptune.ai](https://neptune.ai/)                            | Community-friendly platform supporting data scientists in creating and sharing machine learning models. Neptune facilitates teamwork, infrastructure management, models comparison and reproducibility. |
-| [steppy](https://github.com/minerva-ml/steppy)               | Lightweight, Python library for fast and reproducible machine learning experimentation. Introduces very simple interface that enables clean machine learning pipeline design. |
-| [steppy-toolkit](https://github.com/minerva-ml/steppy-toolkit) | Curated collection of the neural networks, transformers and models that make your machine learning work faster and more effective. |
-| [Datalab from Google](https://cloud.google.com/datalab/docs/) | easily explore, visualize, analyze, and transform data using familiar languages, such as Python and SQL, interactively. |
-| [Hortonworks Sandbox](https://www.cloudera.com/downloads/hortonworks-sandbox.html) | is a personal, portable Hadoop environment that comes with a dozen interactive Hadoop tutorials. |
-| [R](https://www.r-project.org/)                              | is a free software environment for statistical computing and graphics. |
-| [Tidyverse](https://www.tidyverse.org/)                      | is an opinionated collection of R packages designed for data science. All packages share an underlying design philosophy, grammar, and data structures. |
-| [RStudio](https://www.rstudio.com/)                          | IDE – powerful user interface for R. It’s free and open source, and works on Windows, Mac, and Linux. |
-| [Python - Pandas - Anaconda](https://www.anaconda.com/)      | Completely free enterprise-ready Python distribution for large-scale data processing, predictive analytics, and scientific computing |
-| [Pandas GUI](https://github.com/adrotog/PandasGUI)           | Pandas GUI                                                   |
-| [Scikit-Learn](https://scikit-learn.org/stable/)             | Machine Learning in Python                                   |
-| [NumPy](https://numpy.org/)                                  | NumPy is fundamental for scientific computing with Python. It supports large, multi-dimensional arrays and matrices and includes an assortment of high-level mathematical functions to operate on these arrays. |
-| [Vaex](https://vaex.io/)                                     | Vaex is a Python library that allows you to visualize large datasets and calculate statistics at high speeds. |
-| [SciPy](https://scipy.org/)                                  | SciPy works with NumPy arrays and provides efficient routines for numerical integration and optimization. |
-| [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) | Coursera Course                                              |
-| [Data Science Toolbox](https://datasciencetoolbox.org/)      | Blog                                                         |
-| [Wolfram Data Science Platform](https://www.wolfram.com/data-science-platform/) | Take numerical, textual, image, GIS or other data and give it the Wolfram treatment, carrying out a full spectrum of data science analysis and visualization and automatically generate rich interactive reports—all powered by the revolutionary knowledge-based Wolfram Language. |
-| [Datadog](https://www.datadoghq.com/)                        | Solutions, code, and devops for high-scale data science.     |
-| [Variance](https://variancecharts.com/)                      | Build powerful data visualizations for the web without writing JavaScript |
-| [Kite Development Kit](https://kitesdk.org/docs/current/index.html) | The Kite Software Development Kit (Apache License, Version 2.0), or Kite for short, is a set of libraries, tools, examples, and documentation focused on making it easier to build systems on top of the Hadoop ecosystem. |
-| [Domino Data Labs](https://www.dominodatalab.com/)           | Run, scale, share, and deploy your models — without any infrastructure or setup. |
-| [Apache Flink](https://flink.apache.org/)                    | A platform for efficient, distributed, general-purpose data processing. |
-| [Apache Hama](https://hama.apache.org/)                      | Apache Hama is an Apache Top-Level open source project, allowing you to do advanced analytics beyond MapReduce. |
-| [Weka](https://www.cs.waikato.ac.nz/ml/weka/)                | Weka is a collection of machine learning algorithms for data mining tasks. |
-| [Octave](https://www.gnu.org/software/octave/)               | GNU Octave is a high-level interpreted language, primarily intended for numerical computations.(Free Matlab) |
-| [Apache Spark](https://spark.apache.org/)                    | Lightning-fast cluster computing                             |
-| [Hydrosphere Mist](https://github.com/Hydrospheredata/mist)  | a service for exposing Apache Spark analytics jobs and machine learning models as realtime, batch or reactive web services. |
-| [Data Mechanics](https://www.datamechanics.co/)              | A data science and engineering platform making Apache Spark more developer-friendly and cost-effective. |
-| [Caffe](https://caffe.berkeleyvision.org/)                   | Deep Learning Framework                                      |
-| [Torch](https://torch.ch/)                                   | A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT                  |
-| [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon) | Intel® Nervana™ reference deep learning framework committed to best performance on all hardware. |
-| [Skale](https://github.com/skale-me/skale)                   | High performance distributed data processing in NodeJS       |
-| [Aerosolve](https://airbnb.io/aerosolve/)                    | A machine learning package built for humans.                 |
-| [Intel framework](https://github.com/intel/idlf)             | Intel® Deep Learning Framework                               |
-| [Datawrapper](https://www.datawrapper.de/)                   | An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com](https://github.com/datawrapper/datawrapper) |
-| [Tensor Flow](https://www.tensorflow.org/)                   | TensorFlow is an Open Source Software Library for Machine Intelligence |
-| [Natural Language Toolkit](https://www.nltk.org/)            | An introductory yet powerful toolkit for natural language processing and classification |
-| [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/) | Free End-to-End No-Code platform for text annotation and DL model training/tuning. Out-of-the-box support for Named Entity Recognition, Classification, Relation extraction and Assertion Status Spark NLP models. Unlimited support for users, teams, projects, documents. |
-| [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | This module covers some basic nlp principles and implementations. The main focus is performance. When we deal with sample or training data in nlp, we quickly run out of memory. Therefore every implementation in this module is written as stream to only hold that data in memory that is currently processed at any step. |
-| [Julia](https://julialang.org/)                              | high-level, high-performance dynamic programming language for technical computing |
-| [IJulia](https://github.com/JuliaLang/IJulia.jl)             | a Julia-language backend combined with the Jupyter interactive environment |
-| [Apache Zeppelin](https://zeppelin.apache.org/)              | Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more |
-| [Featuretools](https://github.com/alteryx/featuretools)      | An open source framework for automated feature engineering written in python |
-| [Optimus](https://github.com/hi-primus/optimus)              | Cleansing, pre-processing, feature engineering, exploratory data analysis and easy ML with PySpark backend. |
-| [Albumentations](https://github.com/albumentations-team/albumentations) | А fast and framework agnostic image augmentation library that implements a diverse set of augmentation techniques. Supports classification, segmentation, and detection out of the box. Was used to win a number of Deep Learning competitions at Kaggle, Topcoder and those that were a part of the CVPR workshops. |
-| [DVC](https://github.com/iterative/dvc)                      | An open-source data science version control system. It helps track, organize and make data science projects reproducible. In its very basic scenario it helps version control and share large data and model files. |
-| [Lambdo](https://github.com/asavinov/lambdo)                 | is a workflow engine that significantly simplifies data analysis by combining in one analysis pipeline (i) feature engineering and machine learning (ii) model training and prediction (iii) table population and column evaluation. |
-| [Feast](https://github.com/feast-dev/feast)                  | A feature store for the management, discovery, and access of machine learning features. Feast provides a consistent view of feature data for both model training and model serving. |
-| [Polyaxon](https://github.com/polyaxon/polyaxon)             | A platform for reproducible and scalable machine learning and deep learning. |
-| [LightTag](https://www.lighttag.io/)                         | Text Annotation Tool for teams                               |
-| [UBIAI](https://ubiai.tools/)                                | Easy-to-use text annotation tool for teams with most comprehensive auto-annotation features. Supports NER, relations and document classification as well as OCR annotation for invoice labeling |
-| [Trains](https://github.com/allegroai/clearml)               | Auto-Magical Experiment Manager, Version Control & DevOps for AI |
-| [Hopsworks](https://github.com/logicalclocks/hopsworks)      | Open-source data-intensive machine learning platform with a feature store. Ingest and manage features for both online (MySQL Cluster) and offline (Apache Hive) access, train and serve models at scale. |
-| [MindsDB](https://github.com/mindsdb/mindsdb)                | MindsDB is an Explainable AutoML framework for developers. With MindsDB you can build, train and use state of the art ML models in as simple as one line of code. |
-| [Lightwood](https://github.com/mindsdb/lightwood)            | A Pytorch based framework that breaks down machine learning problems into smaller blocks that can be glued together seamlessly with an objective to build predictive models with one line of code. |
-| [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) | An open-source Python package that extends the power of Pandas library to AWS connecting DataFrames and AWS data related services (Amazon Redshift, AWS Glue, Amazon Athena, Amazon EMR, etc). |
-| [Amazon Rekognition](https://aws.amazon.com/rekognition/)    | AWS Rekognition is a service that lets developers working with Amazon Web Services add image analysis to their applications. Catalog assets, automate workflows, and extract meaning from your media and applications. |
-| [Amazon Textract](https://aws.amazon.com/textract/)          | Automatically extract printed text, handwriting, and data from any document. |
-| [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/) | Spot product defects using computer vision to automate quality inspection. Identify missing product components, vehicle and structure damage, and irregularities for comprehensive quality control. |
-| [Amazon CodeGuru](https://aws.amazon.com/codeguru/)          | Automate code reviews and optimize application performance with ML-powered recommendations. |
-| [CML](https://github.com/iterative/cml)                      | An open source toolkit for using continuous integration in data science projects. Automatically train and test models in production-like environments with GitHub Actions & GitLab CI, and autogenerate visual reports on pull/merge requests. |
-| [Dask](https://dask.org/)                                    | An open source Python library to painlessly transition your analytics code to distributed computing systems (Big Data) |
-| [Statsmodels](https://www.statsmodels.org/stable/index.html) | A Python-based inferential statistics, hypothesis testing and regression framework |
-| [Gensim](https://radimrehurek.com/gensim/)                   | An open-source library for topic modeling of natural language text |
-| [spaCy](https://spacy.io/)                                   | A performant natural language processing toolkit             |
-| [Grid Studio](https://github.com/ricklamers/gridstudio)      | Grid studio is a web-based spreadsheet application with full integration of the Python programming language. |
-| [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) | Python Data Science Handbook: full text in Jupyter Notebooks |
-| [Shapley](https://github.com/benedekrozemberczki/shapley)    | A data-driven framework to quantify the value of classifiers in a machine learning ensemble. |
-| [DAGsHub](https://dagshub.com/)                              | A platform built on open source tools for data, model and pipeline management. |
-| [Deepnote](https://deepnote.com/)                            | A new kind of data science notebook. Jupyter-compatible, with real-time collaboration and running in the cloud. |
-| [Valohai](https://valohai.com/)                              | An MLOps platform that handles machine orchestration, automatic reproducibility and deployment. |
-| [PyMC3](https://docs.pymc.io/)                               | A Python Library for Probabalistic Programming (Bayesian Inference and Machine Learning) |
-| [PyStan](https://pypi.org/project/pystan/)                   | Python interface to Stan (Bayesian inference and modeling)   |
-| [hmmlearn](https://pypi.org/project/hmmlearn/)               | Unsupervised learning and inference of Hidden Markov Models  |
-| [Chaos Genius](https://github.com/chaos-genius/chaos_genius/) | ML powered analytics engine for outlier/anomaly detection and root cause analysis |
-| [Nimblebox](https://nimblebox.ai/)                           | A full-stack MLOps platform designed to help data scientists and machine learning practitioners around the world discover, create, and launch multi-cloud apps from their web browser. |
-| [Towhee](https://github.com/towhee-io/towhee)                | A Python library that helps you encode your unstructured data into embeddings. |
-| [LineaPy](https://github.com/LineaLabs/lineapy)              | Ever been frustrated with cleaning up long, messy Jupyter notebooks? With LineaPy, an open source Python library, it takes as little as two lines of code to transform messy development code into production pipelines. |
-| [envd](https://github.com/tensorchord/envd)                  | 🏕️ machine learning development environment for data science and AI/ML engineering teams |
-| [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science) | A search engine 🔎 tool to discover & find a curated list of popular & new libraries, top authors, trending project kits, discussions, tutorials & learning resources |
-| [MLEM](https://github.com/iterative/mlem)                    | 🐶 Version and deploy your ML models following GitOps principles |
-| [MLflow](https://mlflow.org/)                                | MLOps framework for managing ML models across their full lifecycle |
-| [cleanlab](https://github.com/cleanlab/cleanlab)             | Python library for data-centric AI and automatically detecting various issues in ML datasets |
-| [AutoGluon](https://github.com/awslabs/autogluon)            | AutoML to easily produce accurate predictions for image, text, tabular, time-series, and multi-modal data |
-| [Arize AI](https://arize.com/)                               | Arize AI community tier observability tool for monitoring machine learning models in production and root-causing issues such as data quality and performance drift. |
-| [Aureo.io](https://aureo.io/)                                | Aureo.io is a low-code platform that focuses on building artificial intelligence. It provides users with the capability to create pipelines, automations and integrate them with artificial intelligence models – all with their basic data. |
-| [ERD Lab](https://www.erdlab.io/)                            | Free cloud based entity relationship diagram (ERD) tool made for developers. |
-| [Arize-Phoenix](https://docs.arize.com/phoenix)              | MLOps in a notebook - uncover insights, surface problems, monitor, and fine tune your models. |
-| [Comet](https://github.com/comet-ml/comet-examples)          | An MLOps platform with experiment tracking, model production management, a model registry, and full data lineage to support your ML workflow from training straight through to production. |
-| [CometLLM](https://github.com/comet-ml/comet-llm)            | Log, track, visualize, and search your LLM prompts and chains in one easy-to-use, 100% open-source tool. |
-| [Synthical](https://synthical.com/)                          | AI-powered collaborative environment for research. Find relevant papers, create collections to manage bibliography, and summarize content — all in one place |
-| [teeplot](https://github.com/mmore500/teeplot)               | Workflow tool to automatically organize data visualization output |
+| [O Processo de Ciclo de Vida da Ciência de Dados](https://github.com/dslp/dslp) | O Processo de Ciclo de Vida da Ciência de Dados é um processo para levar equipes de ciência de dados da ideia ao valor repetidamente e de forma sustentável. O processo está documentado neste repositório. |
+| [Repositório Modelo do Ciclo de Vida da Ciência de Dados](https://github.com/dslp/dslp-repo-template) | Repositório modelo para projetos de ciclo de vida da ciência de dados |
+| [RexMex](https://github.com/AstraZeneca/rexmex)              | Uma biblioteca de métricas recomendadora de propósito geral para avaliação justa. |
+| [ChemicalX](https://github.com/AstraZeneca/chemicalx)        | Uma biblioteca de aprendizado profundo baseada em PyTorch para pontuação de pares de drogas. |
+| [PyTorch Geometric Temporal](https://github.com/benedekrozemberczki/pytorch_geometric_temporal) | Aprendizado de representação em grafos dinâmicos.            |
+| [Little Ball of Fur](https://github.com/benedekrozemberczki/littleballoffur) | Uma biblioteca de amostragem de grafos para NetworkX com uma API semelhante à do Scikit-Learn. |
+| [Karate Club](https://github.com/benedekrozemberczki/karateclub) | Uma biblioteca de extensão de aprendizado de máquina não supervisionado para NetworkX com uma API semelhante à do Scikit-Learn. |
+| [ML Workspace](https://github.com/ml-tooling/ml-workspace)   | IDE aberto baseado na web para aprendizado de máquina e ciência de dados. O espaço de trabalho é implantado como um contêiner Docker e é pré-carregado com uma variedade de bibliotecas populares de ciência de dados (por exemplo, Tensorflow, PyTorch) e ferramentas de desenvolvimento (por exemplo, Jupyter, VS Code). |
+| [Neptune.ai](https://neptune.ai/)                            | Plataforma amigável à comunidade que apoia cientistas de dados na criação e compartilhamento de modelos de aprendizado de máquina. O Neptune facilita o trabalho em equipe, gerenciamento de infraestrutura, comparação de modelos e reprodutibilidade. |
+| [steppy](https://github.com/minerva-ml/steppy)               | Biblioteca leve em Python para experimentação rápida e reprodutível de aprendizado de máquina. Apresenta uma interface muito simples que permite o design limpo de pipelines de aprendizado de máquina. |
+| [steppy-toolkit](https://github.com/minerva-ml/steppy-toolkit) | Coleção curada de redes neurais, transformadores e modelos que tornam seu trabalho de aprendizado de máquina mais rápido e eficaz. |
+| [Datalab do Google](https://cloud.google.com/datalab/docs/)  | Explore, visualize, analise e transforme dados facilmente usando linguagens familiares, como Python e SQL, de forma interativa. |
+| [Hortonworks Sandbox](https://www.cloudera.com/downloads/hortonworks-sandbox.html) | Um ambiente Hadoop pessoal e portátil que vem com uma dúzia de tutoriais interativos do Hadoop. |
+| [R](https://www.r-project.org/)                              | Ambiente de software livre para computação estatística e gráficos. |
+| [Tidyverse](https://www.tidyverse.org/)                      | Uma coleção opinativa de pacotes R projetados para ciência de dados. Todos os pacotes compartilham uma filosofia, gramática e estruturas de dados subjacentes. |
+| [RStudio](https://www.rstudio.com/)                          | IDE – Interface de usuário poderosa para R. É gratuito e de código aberto, e funciona no Windows, Mac e Linux. |
+| [Python - Pandas - Anaconda](https://www.anaconda.com/)      | Distribuição Python totalmente gratuita e pronta para empresas para processamento de dados em grande escala, análise preditiva e computação científica. |
+| [Pandas GUI](https://github.com/adrotog/PandasGUI)           | Interface gráfica do usuário para Pandas.                    |
+| [Scikit-Learn](https://scikit-learn.org/stable/)             | Aprendizado de máquina em Python.                            |
+| [NumPy](https://numpy.org/)                                  | NumPy é fundamental para computação científica com Python. Suporta matrizes e matrizes grandes e multidimensionais e inclui uma variedade de funções matemáticas de alto nível para operar nessas estruturas. |
+| [Vaex](https://vaex.io/)                                     | Vaex é uma biblioteca Python que permite visualizar conjuntos de dados grandes e calcular estatísticas em alta velocidade. |
+| [SciPy](https://scipy.org/)                                  | SciPy trabalha com arrays NumPy e fornece rotinas eficientes para integração numérica e otimização. |
+| [Data Science Toolbox](https://www.coursera.org/learn/data-scientists-tools) | Curso Coursera.                                              |
+| [Data Science Toolbox](https://datasciencetoolbox.org/)      | Blog.                                                        |
+| [Wolfram Data Science Platform](https://www.wolfram.com/data-science-platform/) | Realize análises e visualizações de dados, criando relatórios interativos com base na linguagem Wolfram. |
+| [Datadog](https://www.datadoghq.com/)                        | Soluções, código e práticas para ciência de dados em grande escala. |
+| [Variance](https://variancecharts.com/)                      | Construa visualizações poderosas de dados para a web sem escrever JavaScript. |
+| [Kite Development Kit](https://kitesdk.org/docs/current/index.html) | O Kite Software Development Kit (Licença Apache, Versão 2.0), ou Kite para abreviar, é um conjunto de bibliotecas, ferramentas, exemplos e documentação focada em facilitar a construção de sistemas no ecossistema Hadoop. |
+| [Domino Data Labs](https://www.dominodatalab.com/)           | Execute, dimensione, compartilhe e implante seus modelos - sem infraestrutura ou configuração. |
+| [Apache Flink](https://flink.apache.org/)                    | Uma plataforma para processamento de dados eficiente, distribuída e de propósito geral. |
+| [Apache Hama](https://hama.apache.org/)                      | Apache Hama é um projeto de código aberto de alto nível da Apache, permitindo que você faça análises avançadas além do MapReduce. |
+| [Weka](https://www.cs.waikato.ac.nz/ml/weka/)                | Weka é uma coleção de algoritmos de aprendizado de máquina para tarefas de mineração de dados. |
+| [Octave](https://www.gnu.org/software/octave/)               | GNU Octave é uma linguagem de alto nível interpretada, principalmente destinada a cálculos numéricos. (Livre Matlab) |
+| [Apache Spark](https://spark.apache.org/)                    | Computação em cluster ultrarrápida.                          |
+| [Hydrosphere Mist](https://github.com/Hydrospheredata/mist)  | Um serviço para expor trabalhos de análise de Apache Spark e modelos de aprendizado de máquina como serviços da web em tempo real, em lote ou reativos. |
+| [Data Mechanics](https://www.datamechanics.co/)              | Uma plataforma de ciência e engenharia de dados que torna o Apache Spark mais fácil de usar para desenvolvedores e mais econômico. |
+| [Caffe](https://caffe.berkeleyvision.org/)                   | Framework de aprendizado profundo.                           |
+| [Torch](https://torch.ch/)                                   | UM AMBIENTE DE COMPUTAÇÃO CIENTÍFICA PARA LUAJIT.            |
+| [Nervana's python based Deep Learning Framework](https://github.com/NervanaSystems/neon) | Framework de aprendizado profundo de referência da Intel® Nervana™ comprometido com o melhor desempenho em todos os hardwares. |
+| [Skale](https://github.com/skale-me/skale)                   | Processamento de dados distribuído de alta performance em NodeJS. |
+| [Aerosolve](https://airbnb.io/aerosolve/)                    | Uma biblioteca de aprendizado de máquina criada para humanos. |
+| [Intel framework](https://github.com/intel/idlf)             | Intel® Deep Learning Framework.                              |
+| [Datawrapper](https://www.datawrapper.de/)                   | Uma plataforma de visualização de dados de código aberto que ajuda todos a criar gráficos simples, corretos e incorporáveis. |
+| [Tensor Flow](https://www.tensorflow.org/)                   | TensorFlow é uma biblioteca de software de código aberto para inteligência artificial. |
+| [Natural Language Toolkit](https://www.nltk.org/)            | Um kit de ferramentas introdutório, mas poderoso, para processamento de linguagem natural e classificação. |
+| [Annotation Lab](https://www.johnsnowlabs.com/annotation-lab/) | Plataforma No-Code de ponta a ponta gratuita para anotação de texto e treinamento/sintonia de modelo DL. Suporte ilimitado para usuários, equipes, projetos, documentos. |
+| [nlp-toolkit for node.js](https://www.npmjs.com/package/nlp-toolkit) | Módulo que abrange alguns princípios e implementações básicas de PNL. O foco principal é o desempenho. |
+| [Julia](https://julialang.org/)                              | Linguagem de programação dinâmica de alto desempenho para computação técnica. |
+| [IJulia](https://github.com/JuliaLang/IJulia.jl)             | Um backend Julia para o ambiente interativo Jupyter.         |
+| [Apache Zeppelin](https://zeppelin.apache.org/)              | Caderno baseado na web que permite análises de dados interativas e colaborativas com SQL, Scala e mais. |
+| [Featuretools](https://github.com/alteryx/featuretools)      | Um framework de engenharia automática de características automatizado em Python. |
+| [Optimus](https://github.com/hi-primus/optimus)              | Limpeza, pré-processamento, engenharia de características, análise exploratória de dados e fácil aprendizado de máquina com backend PySpark. |
+| [Albumentations](https://github.com/albumentations-team/albumentations) | Uma biblioteca de aumento de imagem rápida e independente de estrutura que implementa uma variedade de técnicas de aumento. |
+| [DVC](https://github.com/iterative/dvc)                      | Um sistema de controle de versão de ciência de dados de código aberto. Ajuda a rastrear, organizar e tornar os projetos de ciência de dados reprodutíveis. |
+| [Lambdo](https://github.com/asavinov/lambdo)                 | Um mecanismo de fluxo de trabalho que simplifica significativamente a análise de dados, combinando em um pipeline de análise (i) engenharia de características e aprendizado de máquina (ii) treinamento e previsão do modelo (iii) população de tabela e avaliação de coluna. |
+| [Feast](https://github.com/feast-dev/feast)                  | Um repositório de recursos para gerenciamento, descoberta e acesso de características de aprendizado de máquina. |
+| [Polyaxon](https://github.com/polyaxon/polyaxon)             | Uma plataforma para aprendizado de máquina e profundo reprodutíveis e escaláveis. |
+| [LightTag](https://www.lighttag.io/)                         | Ferramenta de anotação de texto para equipes                 |
+| [UBIAI](https://ubiai.tools/)                                | Ferramenta de anotação de texto fácil de usar para equipes com recursos abrangentes de autoanotação. Suporta reconhecimento de entidade nomeada (NER), relações e classificação de documentos, bem como anotação OCR para rotulagem de faturas |
+| [Trains](https://github.com/allegroai/clearml)               | Gerenciador automático de experimentos, controle de versão e DevOps para IA |
+| [Hopsworks](https://github.com/logicalclocks/hopsworks)      | Plataforma de aprendizado de máquina de código aberto e intensivo em dados com um repositório de recursos. Ingestão e gerenciamento de recursos para acesso online (MySQL Cluster) e offline (Apache Hive), treine e sirva modelos em grande escala. |
+| [MindsDB](https://github.com/mindsdb/mindsdb)                | MindsDB é um framework AutoML explicável para desenvolvedores. Com o MindsDB, você pode construir, treinar e usar modelos de ML de última geração com apenas uma linha de código. |
+| [Lightwood](https://github.com/mindsdb/lightwood)            | Um framework baseado em PyTorch que quebra problemas de aprendizado de máquina em blocos menores que podem ser unidos perfeitamente com o objetivo de construir modelos preditivos com uma linha de código. |
+| [AWS Data Wrangler](https://github.com/awslabs/aws-data-wrangler) | Um pacote Python de código aberto que estende o poder da biblioteca Pandas para a AWS, conectando DataFrames e serviços relacionados a dados da AWS (Amazon Redshift, AWS Glue, Amazon Athena, Amazon EMR, etc). |
+| [Amazon Rekognition](https://aws.amazon.com/rekognition/)    | AWS Rekognition é um serviço que permite que os desenvolvedores que trabalham com a Amazon Web Services adicionem análise de imagem às suas aplicações. Catalogue ativos, automatize fluxos de trabalho e extraia significado de sua mídia e aplicativos. |
+| [Amazon Textract](https://aws.amazon.com/textract/)          | Extraia automaticamente texto impresso, caligrafia e dados de qualquer documento. |
+| [Amazon Lookout for Vision](https://aws.amazon.com/lookout-for-vision/) | Identifique defeitos em produtos usando visão computacional para automatizar a inspeção de qualidade. Identifique componentes de produtos ausentes, danos a veículos e estruturas, e irregularidades para controle de qualidade abrangente. |
+| [Amazon CodeGuru](https://aws.amazon.com/codeguru/)          | Automatize revisões de código e otimize o desempenho do aplicativo com recomendações impulsionadas por ML. |
+| [CML](https://github.com/iterative/cml)                      | Um kit de ferramentas de código aberto para usar integração contínua em projetos de ciência de dados. Treine e teste automaticamente modelos em ambientes semelhantes à produção com GitHub Actions & GitLab CI, e gere automaticamente relatórios visuais em solicitações de pull/merge. |
+| [Dask](https://dask.org/)                                    | Uma biblioteca Python de código aberto para transição fácil do código de análise para sistemas de computação distribuída (Big Data) |
+| [Statsmodels](https://www.statsmodels.org/stable/index.html) | Uma estrutura de inferência estatística, testes de hipóteses e regressão baseada em Python |
+| [Gensim](https://radimrehurek.com/gensim/)                   | Uma biblioteca de código aberto para modelagem de tópicos em textos de linguagem natural |
+| [spaCy](https://spacy.io/)                                   | Um toolkit de processamento de linguagem natural eficiente   |
+| [Grid Studio](https://github.com/ricklamers/gridstudio)      | Grid Studio é um aplicativo de planilha baseado na web com integração completa da linguagem de programação Python. |
+| [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) | Livro em formato de Jupyter Notebooks sobre ciência de dados em Python |
+| [Shapley](https://github.com/benedekrozemberczki/shapley)    | Um framework baseado em dados para quantificar o valor de classificadores em um conjunto de aprendizado de máquina. |
+| [DAGsHub](https://dagshub.com/)                              | Uma plataforma construída em ferramentas de código aberto para gerenciamento de dados, modelos e pipelines. |
+| [Deepnote](https://deepnote.com/)                            | Um novo tipo de caderno de ciência de dados. Compatível com Jupyter, com colaboração em tempo real e execução na nuvem. |
+| [Valohai](https://valohai.com/)                              | Uma plataforma MLOps que lida com orquestração de máquinas, reprodutibilidade automática e implantação. |
+| [PyMC3](https://docs.pymc.io/)                               | Uma biblioteca Python para programação probabilística (inferência bayesiana e aprendizado de máquina) |
+| [PyStan](https://pypi.org/project/pystan/)                   | Interface Python para Stan (inferência bayesiana e modelagem) |
+| [hmmlearn](https://pypi.org/project/hmmlearn/)               | Aprendizado e inferência não supervisionados de Modelos de Markov Ocultos (HMMs) |
+| [Chaos Genius](https://github.com/chaos-genius/chaos_genius/) | Motor de análise alimentado por ML para detecção de outliers/anomalias e análise de causa raiz. |
+| [Nimblebox](https://nimblebox.ai/)                           | Uma plataforma MLOps completa projetada para ajudar cientistas de dados e profissionais de aprendizado de máquina a descobrir, criar e lançar aplicativos multi-cloud a partir de seus navegadores da web. |
+| [Towhee](https://github.com/towhee-io/towhee)                | Uma biblioteca Python que ajuda a codificar seus dados não estruturados em embeddings. |
+| [LineaPy](https://github.com/LineaLabs/lineapy)              | Já ficou frustrado ao limpar notebooks Jupyter longos e bagunçados? Com o LineaPy, uma biblioteca Python de código aberto, são necessárias apenas duas linhas de código para transformar código de desenvolvimento bagunçado em pipelines de produção. |
+| [envd](https://github.com/tensorchord/envd)                  | Ambiente de desenvolvimento para aprendizado de máquina para equipes de ciência de dados e engenharia de IA/ML |
+| [Explore Data Science Libraries](https://kandi.openweaver.com/explore/data-science) | Uma ferramenta de busca para descobrir e encontrar uma lista curada de bibliotecas populares e novas, principais autores, kits de projetos em tendência, discussões, tutoriais e recursos de aprendizado em ciência de dados. |
+| [MLEM](https://github.com/iterative/mlem)                    | Versione e implante seus modelos de ML seguindo os princípios do GitOps |
+| [MLflow](https://mlflow.org/)                                | Framework MLOps para gerenciar modelos de ML em todo o ciclo de vida. |
+| [cleanlab](https://github.com/cleanlab/cleanlab)             | Biblioteca Python para IA centrada em dados e detecção automática de vários problemas em conjuntos de dados de ML |
+| [AutoGluon](https://github.com/awslabs/autogluon)            | AutoML para produzir facilmente previsões precisas para dados de imagem, texto, tabelas, séries temporais e multimodais |
+| [Arize AI](https://arize.com/)                               | Ferramenta de observabilidade da comunidade Arize AI para monitorar modelos de aprendizado de máquina em produção e identificar problemas como qualidade de dados e deriva de desempenho. |
+| [Aureo.io](https://aureo.io/)                                | Aureo.io é uma plataforma de baixo código focada em construir inteligência artificial. Permite aos usuários criar pipelines, automações e integrá-los com modelos de inteligência artificial - tudo com seus dados básicos. |
+| [ERD Lab](https://www.erdlab.io/)                            | Ferramenta gratuita baseada em nuvem para criação de diagrama de entidade-relacionamento (ERD) feita para desenvolvedores. |
+| [Arize-Phoenix](https://docs.arize.com/phoenix)              | MLOps em um notebook - descubra insights, identifique problemas, monitore e ajuste seus modelos. |
+| [Comet](https://github.com/comet-ml/comet-examples)          | Uma plataforma MLOps com rastreamento de experimentos, gerenciamento de produção de modelos, um registro de modelos e uma linhagem completa de dados para suportar seu fluxo de trabalho de ML desde o treinamento até a produção. |
+| [CometLLM](https://github.com/comet-ml/comet-llm)            | Registre, rastreie, visualize e pesquise suas instruções e cadeias LLM em uma ferramenta fácil de usar e 100% de código aberto. |
+| [Synthical](https://synthical.com/)                          | Ambiente colaborativo alimentado por IA para pesquisa. Encontre artigos relevantes, crie coleções para gerenciar bibliografia e resuma conteúdo - tudo em um só lugar. |
+| [teeplot](https://github.com/mmore500/teeplot)               | Ferramenta de fluxo de trabalho para organizar automaticamente a saída de visualização de dados. |
 
-## Literature and Media
+### Literatura e Mídia
 
-**[`^        back to top        ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
+- **"Data Science for Business" por Foster Provost e Tom Fawcett** - Um guia abrangente sobre como a ciência de dados pode ser aplicada para resolver problemas de negócios.
+- **"Python for Data Analysis" por Wes McKinney** - Este livro é uma introdução prática e moderna às ferramentas de ciência de dados em Python.
+- **"The Elements of Statistical Learning" por Trevor Hastie, Robert Tibshirani e Jerome Friedman** - Um livro fundamental para entender a aprendizagem estatística e machine learning.
+- **"Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" por Aurélien Géron** - Um guia prático para iniciantes e profissionais, abrangendo machine learning com bibliotecas populares.
+- **"Data Science from Scratch" por Joel Grus** - Um livro para aqueles que desejam entender os princípios da ciência de dados implementando-os do zero.
 
-This section includes some additional reading material, channels to watch, and talks to listen to.
+### Canais de Mídia
+
+- **YouTube - Siraj Raval** - Siraj Raval
 
 ### Books
 
@@ -630,14 +687,6 @@ This section includes some additional reading material, channels to watch, and t
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - Download Page
 - [Machine Learning For Absolute Beginners](https://www.amazon.in/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B07335JNW1)
 
-#### Book Deals (Affiliated) 🛍
-
-- [eBook sale - Save up to 45% on eBooks!](https://www.manning.com/?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=ebook_sale_8_8_22)
-- [Causal Machine Learning](https://www.manning.com/books/causal-machine-learning?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_ness_causal_7_26_22&a_aid=mikrobusiness&a_bid=43a2198b)
-- [Managing ML Projects](https://www.manning.com/books/managing-machine-learning-projects?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_thompson_managing_6_14_22)
-- [Causal Inference for Data Science](https://www.manning.com/books/causal-inference-for-data-science?utm_source=mikrobusiness&utm_medium=affiliate&utm_campaign=book_ruizdevilla_causal_6_6_22)
-- [Data for All](https://www.manning.com/books/data-for-all?utm_source=mikrobusiness&utm_medium=affiliate)
-
 ### Journals, Publications and Magazines
 
 **[`^        back to top        ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
@@ -664,111 +713,108 @@ This section includes some additional reading material, channels to watch, and t
 - [DataTalks.Club](https://datatalks.club/). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
 - [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
 
-### Bloggers
+- ###  Blogueiros
 
-**[`^        back to top        ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
+  **[`^ voltar ao topo ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
 
-- [Wes McKinney](https://wesmckinney.com/archives.html) - Wes McKinney Archives.
-- [Matthew Russell](https://miningthesocialweb.com/) - Mining The Social Web.
-- [Greg Reda](https://www.gregreda.com/) - Greg Reda Personal Blog
-- [Kevin Davenport](https://kldavenport.com/) - Kevin Davenport Personal Blog
-- [Julia Evans](https://jvns.ca/) - Recurse Center alumna
-- [Hakan Kardas](https://www.cse.unr.edu/~hkardes/) - Personal Web Page
-- [Sean J. Taylor](https://seanjtaylor.com/) - Personal Web Page
-- [Drew Conway](https://drewconway.com/) - Personal Web Page
-- [Hilary Mason](https://hilarymason.com/) - Personal Web Page
-- [Noah Iliinsky](https://complexdiagrams.com/) - Personal Blog
-- [Matt Harrison](https://hairysun.com/) - Personal Blog
-- [Vamshi Ambati](https://allthingsds.wordpress.com/) - AllThings Data Sciene
-- [Prash Chan](https://www.mdmgeek.com/) - Tech Blog on Master Data Management And Every Buzz Surrounding It
-- [Clare Corthell](https://datasciencemasters.org/) - The Open Source Data Science Masters
-- [Paul Miller](https://cloudofdata.com/) Based in the UK and working globally, Cloud of Data's consultancy services help clients understand the implications of taking data and more to the Cloud.
-- [Data Science London](https://datasciencelondon.org/) Data Science London is a non-profit organization dedicated to the free, open, dissemination of data science. We are the largest data science community in Europe. We are more than 3,190 data scientists and data geeks in our community.
-- [Datawrangling](http://www.datawrangling.org/) by Peter Skomoroch. MACHINE LEARNING, DATA MINING, AND MORE
-- [Quora Data Science](https://www.quora.com/topic/Data-Science) - Data Science Questions and Answers from experts
-- [Siah](https://openresearch.wordpress.com/) a PhD student at Berkeley
-- [Louis Dorard](https://www.ownml.co/blog/) a technology guy with a penchant for the web and for data, big and small
-- [Machine Learning Mastery](https://machinelearningmastery.com/) about helping professional programmers confidently apply machine learning algorithms to address complex problems.
-- [Daniel Forsyth](https://www.danielforsyth.me/) - Personal Blog
-- [Data Science Weekly](https://www.datascienceweekly.org/) - Weekly News Blog
-- [Revolution Analytics](https://blog.revolutionanalytics.com/) - Data Science Blog
-- [R Bloggers](https://www.r-bloggers.com/) - R Bloggers
-- [The Practical Quant](https://practicalquant.blogspot.com/) Big data
-- [Yet Another Data Blog](https://yet-another-data-blog.blogspot.com/) Yet Another Data Blog
-- [Spenczar](https://spenczar.com/) a data scientist at *Twitch*. I handle the whole data pipeline, from tracking to model-building to reporting.
-- [KD Nuggets](https://www.kdnuggets.com/) Data Mining, Analytics, Big Data, Data, Science not a blog a portal
-- [Meta Brown](https://www.metabrown.com/blog/) - Personal Blog
-- [Data Scientist](https://datascientists.net/) is building the data scientist culture.
-- [WhatSTheBigData](https://whatsthebigdata.com/) is some of, all of, or much more than the above and this blog explores its impact on information technology, the business world, government agencies, and our lives.
-- [Tevfik Kosar](https://magnus-notitia.blogspot.com/) - Magnus Notitia
-- [New Data Scientist](https://newdatascientist.blogspot.com/) How a Social Scientist Jumps into the World of Big Data
-- [Harvard Data Science](https://harvarddatascience.com/) - Thoughts on Statistical Computing and Visualization
-- [Data Science 101](https://ryanswanstrom.com/datascience101/) - Learning To Be A Data Scientist
-- [Kaggle Past Solutions](https://www.chioka.in/kaggle-competition-solutions/)
-- [DataScientistJourney](https://datascientistjourney.wordpress.com/category/data-science/)
-- [NYC Taxi Visualization Blog](https://chriswhong.github.io/nyctaxi/)
-- [Learning Lover](https://learninglover.com/blog/)
-- [Dataists](https://www.dataists.com/)
-- [Data-Mania](https://www.data-mania.com/)
-- [Data-Magnum](https://data-magnum.com/)
-- [P-value](https://www.p-value.info/) - Musings on data science, machine learning, and stats.
-- [datascopeanalytics](https://datascopeanalytics.com/blog/)
-- [Digital transformation](https://tarrysingh.com/)
-- [datascientistjourney](https://datascientistjourney.wordpress.com/category/data-science/)
-- [Data Mania Blog](https://www.data-mania.com/blog/) - [The File Drawer](https://chris-said.io/) - Chris Said's science blog
-- [Emilio Ferrara's web page](https://www.emilio.ferrara.name/)
-- [DataNews](https://datanews.tumblr.com/)
-- [Reddit TextMining](https://www.reddit.com/r/textdatamining/)
-- [Periscopic](https://periscopic.com/#!/news)
-- [Hilary Parker](https://hilaryparker.com/)
-- [Data Stories](https://datastori.es/)
-- [Data Science Lab](https://datasciencelab.wordpress.com/)
-- [Meaning of](https://www.kennybastani.com/)
-- [Adventures in Data Land](https://blog.smola.org/)
-- [DATA MINERS BLOG](https://blog.data-miners.com/)
-- [Dataclysm](https://theblog.okcupid.com/)
-- [FlowingData](https://flowingdata.com/) - Visualization and Statistics
-- [Calculated Risk](https://www.calculatedriskblog.com/)
-- [O'reilly Learning Blog](https://www.oreilly.com/content/topics/oreilly-learning/)
-- [Dominodatalab](https://blog.dominodatalab.com/)
-- [i am trask](https://iamtrask.github.io/) - A Machine Learning Craftsmanship Blog
-- [Vademecum of Practical Data Science](https://datasciencevademecum.wordpress.com/) - Handbook and recipes for data-driven solutions of real-world problems
-- [Dataconomy](https://dataconomy.com/) - A blog on the newly emerging data economy
-- [Springboard](https://www.springboard.com/blog/) - A blog with resources for data science learners
-- [Analytics Vidhya](https://www.analyticsvidhya.com/) - A full-fledged website about data science and analytics study material.
-- [Occam's Razor](https://www.kaushik.net/avinash/) - Focused on Web Analytics.
-- [Data School](https://www.dataschool.io/) - Data science tutorials for beginners!
-- [Colah's Blog](https://colah.github.io/) - Blog for understanding Neural Networks!
-- [Sebastian's Blog](https://ruder.io/#open) - Blog for NLP and transfer learning!
-- [Distill](https://distill.pub/) - Dedicated to clear explanations of machine learning!
-- [Chris Albon's Website](https://chrisalbon.com/) - Data Science and AI notes
-- [Andrew Carr](https://andrewnc.github.io/blog/blog.html) - Data Science with Esoteric programming languages
-- [floydhub](https://blog.floydhub.com/introduction-to-genetic-algorithms/) - Blog for Evolutionary Algorithms
-- [Jingles](https://jinglescode.github.io/) - Review and extract key concepts from academic papers
-- [nbshare](https://www.nbshare.io/notebooks/data-science/) - Data Science notebooks
-- [Deep and Shallow](https://deep-and-shallow.com/) - All things Deep and Shallow in Data Science
-- [Loic Tetrel](https://ltetrel.github.io/) - Data science blog
-- [Chip Huyen's Blog](https://huyenchip.com/blog/) - ML Engineering, MLOps, and the use of ML in startups
-- [Maria Khalusova](https://www.mariakhalusova.com/) - Data science blog
-- [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - ML,DL,Data Science blog
-- [Santiago Basulto](https://medium.com/@santiagobasulto) - Data Science with Python
-- [Akhil Soni](https://medium.com/@akhil0435) - ML, DL and Data Science
-- [Akhil Soni](https://akhilworld.hashnode.dev/) - ML, DL and Data Science
+  - [Wes McKinney](https://wesmckinney.com/archives.html) - Arquivos de Wes McKinney.
+  - [Matthew Russell](https://miningthesocialweb.com/) - Mining The Social Web.
+  - [Greg Reda](https://www.gregreda.com/) - Blog Pessoal de Greg Reda.
+  - [Kevin Davenport](https://kldavenport.com/) - Blog Pessoal de Kevin Davenport.
+  - [Julia Evans](https://jvns.ca/) - Aluna do Recurse Center.
+  - [Hakan Kardas](https://www.cse.unr.edu/~hkardes/) - Página Web Pessoal.
+  - [Sean J. Taylor](https://seanjtaylor.com/) - Página Web Pessoal.
+  - [Drew Conway](https://drewconway.com/) - Página Web Pessoal.
+  - [Hilary Mason](https://hilarymason.com/) - Página Web Pessoal.
+  - [Noah Iliinsky](https://complexdiagrams.com/) - Blog Pessoal.
+  - [Matt Harrison](https://hairysun.com/) - Blog Pessoal.
+  - [Vamshi Ambati](https://allthingsds.wordpress.com/) - AllThings Data Science.
+  - [Prash Chan](https://www.mdmgeek.com/) - Blog de Tecnologia sobre Master Data Management.
+  - [Clare Corthell](https://datasciencemasters.org/) - The Open Source Data Science Masters.
+  - [Paul Miller](https://cloudofdata.com/) - Com sede no Reino Unido e trabalhando globalmente, os serviços de consultoria da Cloud of Data ajudam os clientes a entender as implicações de levar dados e muito mais para a nuvem.
+  - [Data Science London](https://datasciencelondon.org/) - Data Science London é uma organização sem fins lucrativos dedicada à livre disseminação de ciência de dados. Somos a maior comunidade de ciência de dados na Europa, com mais de 3.190 cientistas de dados e entusiastas em nossa comunidade.
+  - [Datawrangling](http://www.datawrangling.org/) por Peter Skomoroch. APRENDIZAGEM DE MÁQUINA, MINERAÇÃO DE DADOS E MAIS.
+  - [Quora Data Science](https://www.quora.com/topic/Data-Science) - Perguntas e respostas sobre ciência de dados de especialistas.
+  - [Siah](https://openresearch.wordpress.com/) - Estudante de doutorado em Berkeley.
+  - [Louis Dorard](https://www.ownml.co/blog/) - Um cara de tecnologia com afinidade pela web e por dados, grandes e pequenos.
+  - [Machine Learning Mastery](https://machinelearningmastery.com/) - Sobre ajudar programadores profissionais a aplicar com confiança algoritmos de aprendizado de máquina para resolver problemas complexos.
+  - [Daniel Forsyth](https://www.danielforsyth.me/) - Blog Pessoal.
+  - [Data Science Weekly](https://www.datascienceweekly.org/) - Blog de Notícias Semanal.
+  - [Revolution Analytics](https://blog.revolutionanalytics.com/) - Blog de Ciência de Dados.
+  - [R Bloggers](https://www.r-bloggers.com/) - R Bloggers.
+  - [The Practical Quant](https://practicalquant.blogspot.com/) - Big data.
+  - [Yet Another Data Blog](https://yet-another-data-blog.blogspot.com/) - Yet Another Data Blog.
+  - [Spenczar](https://spenczar.com/) - Um cientista de dados na *Twitch*. Eu lido com todo o pipeline de dados, desde o rastreamento até a construção de modelos até relatórios.
+  - [KD Nuggets](https://www.kdnuggets.com/) - Mineração de Dados, Análise, Big Data, Dados, Ciência, não é um blog, é um portal.
+  - [Meta Brown](https://www.metabrown.com/blog/) - Blog Pessoal.
+  - [Data Scientist](https://datascientists.net/) - Construindo a cultura de cientistas de dados.
+  - [WhatSTheBigData](https://whatsthebigdata.com/) - É um pouco, tudo ou muito mais do que isso, e este blog explora seu impacto na tecnologia da informação, no mundo dos negócios, nas agências governamentais e em nossas vidas.
+  - [Tevfik Kosar](https://magnus-notitia.blogspot.com/) - Magnus Notitia.
+  - [New Data Scientist](https://newdatascientist.blogspot.com/) - Como um cientista social entra no mundo do big data.
+  - [Harvard Data Science](https://harvarddatascience.com/) - Reflexões sobre Computação Estatística e Visualização.
+  - [Data Science 101](https://ryanswanstrom.com/datascience101/) - Aprendendo a ser um cientista de dados.
+  - [Kaggle Past Solutions](https://www.chioka.in/kaggle-competition-solutions/)
+  - [DataScientistJourney](https://datascientistjourney.wordpress.com/category/data-science/)
+  - [NYC Taxi Visualization Blog](https://chriswhong.github.io/nyctaxi/)
+  - [Learning Lover](https://learninglover.com/blog/)
+  - [Dataists](https://www.dataists.com/)
+  - [Data-Mania](https://www.data-mania.com/)
+  - [Data-Magnum](https://data-magnum.com/)
+  - [P-value](https://www.p-value.info/) - Reflexões sobre ciência de dados, aprendizado de máquina e estatísticas.
+  - [datascopeanalytics](https://datascopeanalytics.com/blog/)
+  - [Digital transformation](https://tarrysingh.com/)
+  - [datascientistjourney](https://datascientistjourney.wordpress.com/category/data-science/)
+  - [Data Mania Blog](https://www.data-mania.com/blog/) - [The File Drawer](https://chris-said.io/) - Blog de ciência de Chris Said.
+  - [Emilio Ferrara's web page](https://www.emilio.ferrara.name/)
+  - [DataNews](https://datanews.tumblr.com/)
+  - [Reddit TextMining](https://www.reddit.com/r/textdatamining/)
+  - [Periscopic](https://periscopic.com/#!/news)
+  - [Hilary Parker](https://hilaryparker.com/)
+  - [Data Stories](https://datastori.es/)
+  - [Data Science Lab](https://datasciencelab.wordpress.com/)
+  - [Meaning of](https://www.kennybastani.com/)
+  - [Adventures in Data Land](https://blog.smola.org/)
+  - [DATA MINERS BLOG](https://blog.data-miners.com/)
+  - [Dataclysm](https://theblog.okcupid.com/)
+  - [FlowingData](https://flowingdata.com/) - Visualização e Estatísticas.
+  - [Calculated Risk](https://www.calculatedriskblog.com/)
+  - [O'reilly Learning Blog](https://www.oreilly.com/content/topics/oreilly-learning/)
+  - [Dominodatalab](https://blog.dominodatalab.com/)
+  - [i am trask](https://iamtrask.github.io/) - Um blog de Artesanato em Aprendizado de Máquina.
+  - [Vademecum of Practical Data Science](https://datasciencevademecum.wordpress.com/) - Manual e receitas para soluções baseadas em dados para problemas do mundo real.
+  - [Dataconomy](https://dataconomy.com/) - Um blog sobre a recém-emergente economia de dados.
+  - [Springboard](https://www.springboard.com/blog/) - Um blog com recursos para aprendizes de ciência de dados.
+  - [Analytics Vidhya](https://www.analyticsvidhya.com/) - Um site completo sobre material de estudo de ciência de dados e análise.
+  - [Occam's Razor](https://www.kaushik.net/avinash/) - Focado em Análise da Web.
+  - [Data School](https://www.dataschool.io/) - Tutoriais de ciência de dados para iniciantes!
+  - [Colah's Blog](https://colah.github.io/) - Blog para entender Redes Neurais!
+  - [Sebastian's Blog](https://ruder.io/#open) - Blog para PNL e transferência de aprendizado!
+  - [Distill](https://distill.pub/) - Dedicado a explicações claras de aprendizado de máquina!
+  - [Chris Albon's Website](https://chrisalbon.com/) - Notas de Ciência de Dados e IA
+  - [Andrew Carr](https://andrewnc.github.io/blog/blog.html) - Ciência de Dados com linguagens de programação esotéricas
+  - [floydhub](https://blog.floydhub.com/introduction-to-genetic-algorithms/) - Blog para Algoritmos Evolutivos
+  - [Jingles](https://jinglescode.github.io/) - Revisão e extração de conceitos-chave de artigos acadêmicos
+  - [nbshare](https://www.nbshare.io/notebooks/data-science/) - Notebooks de Ciência de Dados
+  - [Deep and Shallow](https://deep-and-shallow.com/) - Tudo sobre Profundo e Superficial em Ciência de Dados
+  - [Loic Tetrel](https://ltetrel.github.io/) - Blog de ciência de dados
+  - [Chip Huyen's Blog](https://huyenchip.com/blog/) - Engenharia de ML, MLOps e o uso de ML em startups
+  - [Maria Khalusova](https://www.mariakhalusova.com/) - Blog de ciência de dados
+  - [Aditi Rastogi](https://medium.com/@aditi2507rastogi) - Blog de ML, DL, Ciência de Dados
+  - [Santiago Basulto](https://medium.com/@santiagobasulto) - Ciência de Dados com Python
+  - [Akhil Soni](https://medium.com/@akhil0435) - ML, DL e Ciência de Dados
 
-### Presentations
+- ###  Apresentações
 
-**[`^        back to top        ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
+  **[`^ voltar ao topo ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
 
-- [How to Become a Data Scientist](https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
-- [Introduction to Data Science](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
-- [Intro to Data Science for Enterprise Big Data](https://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
-- [How to Interview a Data Scientist](https://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
-- [How to Share Data with a Statistician](https://github.com/jtleek/datasharing)
-- [The Science of a Great Career in Data Science](https://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
-- [What Does a Data Scientist Do?](https://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
-- [Building Data Start-Ups: Fast, Big, and Focused](https://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
-- [How to win data science competitions with Deep Learning](https://www.slideshare.net/0xdata/how-to-win-data-science-competitions-with-deep-learning)
-- [Full-Stack Data Scientist](https://www.slideshare.net/AlexeyGrigorev/fullstack-data-scientist)
+  - [Como se Tornar um Cientista de Dados](https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
+  - [Introdução à Ciência de Dados](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
+  - [Introdução à Ciência de Dados para Big Data Empresarial](https://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
+  - [Como Entrevistar um Cientista de Dados](https://www.slideshare.net/dtunkelang/how-to-interview-a-data-scientist)
+  - [Como Compartilhar Dados com um Estatístico](https://github.com/jtleek/datasharing)
+  - [A Ciência de uma Ótima Carreira em Ciência de Dados](https://www.slideshare.net/katemats/the-science-of-a-great-career-in-data-science)
+  - [O que Faz um Cientista de Dados?](https://www.slideshare.net/datasciencelondon/big-data-sorry-data-science-what-does-a-data-scientist-do)
+  - [Construindo Startups de Dados: Rápidas, Grandes e Focadas](https://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
 
 ### Podcasts
 
@@ -876,116 +922,7 @@ Below are some Social Media links. Connect with other data scientists!
 - [Veri Bilimi Istanbul](https://www.facebook.com/groups/veribilimiistanbul/)
 - [The Data Science Blog](https://www.facebook.com/theDataScienceBlog/)
 
-### Twitter Accounts
-
-**[`^        back to top        ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
-
-| Twitter                                                     | Description                                                  |
-| ----------------------------------------------------------- | ------------------------------------------------------------ |
-| [Big Data Combine](https://twitter.com/BigDataCombine)      | Rapid-fire, live tryouts for data scientists seeking to monetize their models as trading strategies |
-| Big Data Mania                                              | Data Viz Wiz, Data Journalist, Growth Hacker, Author of Data Science for Dummies (2015) |
-| [Big Data Science](https://twitter.com/analyticbridge)      | Big Data, Data Science, Predictive Modeling, Business Analytics, Hadoop, Decision and Operations Research. |
-| Charlie Greenbacker                                         | Director of Data Science at @ExploreAltamira                 |
-| [Chris Said](https://twitter.com/Chris_Said)                | Data scientist at Twitter                                    |
-| [Clare Corthell](https://twitter.com/clarecorthell)         | Dev, Design, Data Science @mattermark #hackerei              |
-| [DADI Charles-Abner](https://twitter.com/DadiCharles)       | #datascientist @Ekimetrics. , #machinelearning #dataviz #DynamicCharts #Hadoop #R #Python #NLP #Bitcoin #dataenthousiast |
-| [Data Science Central](https://twitter.com/DataScienceCtrl) | Data Science Central is the industry's single resource for Big Data practitioners. |
-| [Data Science London](https://twitter.com/ds_ldn)           | Data Science. Big Data. Data Hacks. Data Junkies. Data Startups. Open Data |
-| [Data Science Renee](https://twitter.com/BecomingDataSci)   | Documenting my path from SQL Data Analyst pursuing an Engineering Master's Degree to Data Scientist |
-| [Data Science Report](https://twitter.com/TedOBrien93)      | Mission is to help guide & advance careers in Data Science & Analytics |
-| [Data Science Tips](https://twitter.com/datasciencetips)    | Tips and Tricks for Data Scientists around the world! #datascience #bigdata |
-| [Data Vizzard](https://twitter.com/DataVisualizati)         | DataViz, Security, Military                                  |
-| [DataScienceX](https://twitter.com/DataScienceX)            |                                                              |
-| deeplearning4j                                              |                                                              |
-| [DJ Patil](https://twitter.com/dpatil)                      | White House Data Chief, VP @ RelateIQ.                       |
-| [Domino Data Lab](https://twitter.com/DominoDataLab)        |                                                              |
-| [Drew Conway](https://twitter.com/drewconway)               | Data nerd, hacker, student of conflict.                      |
-| Emilio Ferrara                                              | #Networks, #MachineLearning and #DataScience. I work on #Social Media. Postdoc at @IndianaUniv |
-| [Erin Bartolo](https://twitter.com/erinbartolo)             | Running with #BigData--enjoying a love/hate relationship with its hype. @iSchoolSU #DataScience Program Mgr. |
-| [Greg Reda](https://twitter.com/gjreda)                     | Working @ *GrubHub* about data and pandas                    |
-| [Gregory Piatetsky](https://twitter.com/kdnuggets)          | KDnuggets President, Analytics/Big Data/Data Mining/Data Science expert, KDD & SIGKDD co-founder, was Chief Scientist at 2 startups, part-time philosopher. |
-| [Hadley Wickham](https://twitter.com/hadleywickham)         | Chief Scientist at RStudio, and an Adjunct Professor of Statistics at the University of Auckland, Stanford University, and Rice University. |
-| [Hakan Kardas](https://twitter.com/hakan_kardes)            | Data Scientist                                               |
-| [Hilary Mason](https://twitter.com/hmason)                  | Data Scientist in Residence at @accel.                       |
-| [Jeff Hammerbacher](https://twitter.com/hackingdata)        | ReTweeting about data science                                |
-| [John Myles White](https://twitter.com/johnmyleswhite)      | Scientist at Facebook and Julia developer. Author of Machine Learning for Hackers and Bandit Algorithms for Website Optimization. Tweets reflect my views only. |
-| [Juan Miguel Lavista](https://twitter.com/BDataScientist)   | Principal Data Scientist @ Microsoft Data Science Team       |
-| [Julia Evans](https://twitter.com/b0rk)                     | Hacker - Pandas - Data Analyze                               |
-| [Kenneth Cukier](https://twitter.com/kncukier)              | The Economist's Data Editor and co-author of Big Data (http://www.big-data-book.com/). |
-| Kevin Davenport                                             | Organizer of https://www.meetup.com/San-Diego-Data-Science-R-Users-Group/ |
-| [Kevin Markham](https://twitter.com/justmarkham)            | Data science instructor, and founder of [Data School](https://www.dataschool.io/) |
-| [Kim Rees](https://twitter.com/krees)                       | Interactive data visualization and tools. Data flaneur.      |
-| [Kirk Borne](https://twitter.com/KirkDBorne)                | DataScientist, PhD Astrophysicist, Top #BigData Influencer.  |
-| Linda Regber                                                | Data storyteller, visualizations.                            |
-| [Luis Rei](https://twitter.com/lmrei)                       | PhD Student. Programming, Mobile, Web. Artificial Intelligence, Intelligent Robotics Machine Learning, Data Mining, Natural Language Processing, Data Science. |
-| Mark Stevenson                                              | Data Analytics Recruitment Specialist at Salt (@SaltJobs) Analytics - Insight - Big Data - Data science |
-| [Matt Harrison](https://twitter.com/__mharrison__)          | Opinions of full-stack Python guy, author, instructor, currently playing Data Scientist. Occasional fathering, husbanding, organic gardening. |
-| [Matthew Russell](https://twitter.com/ptwobrussell)         | Mining the Social Web.                                       |
-| [Mert Nuhoğlu](https://twitter.com/mertnuhoglu)             | Data Scientist at BizQualify, Developer                      |
-| [Monica Rogati](https://twitter.com/mrogati)                | Data @ Jawbone. Turned data into stories & products at LinkedIn. Text mining, applied machine learning, recommender systems. Ex-gamer, ex-machine coder; namer. |
-| [Noah Iliinsky](https://twitter.com/noahi)                  | Visualization & interaction designer. Practical cyclist. Author of vis books: https://www.oreilly.com/pub/au/4419 |
-| [Paul Miller](https://twitter.com/PaulMiller)               | Cloud Computing/ Big Data/ Open Data Analyst & Consultant. Writer, Speaker & Moderator. Gigaom Research Analyst. |
-| [Peter Skomoroch](https://twitter.com/peteskomoroch)        | Creating intelligent systems to automate tasks & improve decisions. Entrepreneur, ex-Principal Data Scientist @LinkedIn. Machine Learning, ProductRei, Networks |
-| [Prash Chan](https://twitter.com/MDMGeek)                   | Solution Architect @ IBM, Master Data Management, Data Quality & Data Governance Blogger. Data Science, Hadoop, Big Data & Cloud. |
-| [Quora Data Science](https://twitter.com/q_datascience)     | Quora's data science topic                                   |
-| [R-Bloggers](https://twitter.com/Rbloggers)                 | Tweet blog posts from the R blogosphere, data science conferences, and (!) open jobs for data scientists. |
-| [Rand Hindi](https://twitter.com/randhindi)                 |                                                              |
-| [Randy Olson](https://twitter.com/randal_olson)             | Computer scientist researching artificial intelligence. Data tinkerer. Community leader for @DataIsBeautiful. #OpenScience advocate. |
-| [Recep Erol](https://twitter.com/EROLRecep)                 | Data Science geek @ UALR                                     |
-| [Ryan Orban](https://twitter.com/ryanorban)                 | Data scientist, genetic origamist, hardware aficionado       |
-| [Sean J. Taylor](https://twitter.com/seanjtaylor)           | Social Scientist. Hacker. Facebook Data Science Team. Keywords: Experiments, Causal Inference, Statistics, Machine Learning, Economics. |
-| [Silvia K. Spiva](https://twitter.com/silviakspiva)         | #DataScience at Cisco                                        |
-| [Harsh B. Gupta](https://twitter.com/harshbg)               | Data Scientist at BBVA Compass                               |
-| [Spencer Nelson](https://twitter.com/spenczar_n)            | Data nerd                                                    |
-| [Talha Oz](https://twitter.com/tozCSS)                      | Enjoys ABM, SNA, DM, ML, NLP, HI, Python, Java. Top percentile Kaggler/data scientist |
-| [Tasos Skarlatidis](https://twitter.com/anskarl)            | Complex Event Processing, Big Data, Artificial Intelligence and Machine Learning. Passionate about programming and open-source. |
-| [Terry Timko](https://twitter.com/Terry_Timko)              | InfoGov; Bigdata; Data as a Service; Data Science; Open, Social & Business Data Convergence |
-| [Tony Baer](https://twitter.com/TonyBaer)                   | IT analyst with Ovum covering Big Data & data management with some systems engineering thrown in. |
-| [Tony Ojeda](https://twitter.com/tonyojeda3)                | Data Scientist , Author , Entrepreneur. Co-founder @DataCommunityDC. Founder @DistrictDataLab. #DataScience #BigData #DataDC |
-| [Vamshi Ambati](https://twitter.com/vambati)                | Data Science @ PayPal. #NLP, #machinelearning; PhD, Carnegie Mellon alumni (Blog: [https://allthingsds.wordpress.com](https://allthingsds.wordpress.com/) ) |
-| [Wes McKinney](https://twitter.com/wesmckinn)               | Pandas (Python Data Analysis library).                       |
-| [WileyEd](https://twitter.com/WileyEd)                      | Senior Manager - @Seagate Big Data Analytics @McKinsey Alum #BigData + #Analytics Evangelist #Hadoop, #Cloud, #Digital, & #R Enthusiast |
-| [WNYC Data News Team](https://twitter.com/datanews)         | The data news crew at @WNYC. Practicing data-driven journalism, making it visual, and showing our work. |
-| [Alexey Grigorev](https://twitter.com/Al_Grigor)            | Data science author                                          |
-| [İlker Arslan](https://twitter.com/ilkerarslan_35)          | Data science author. Shares mostly about Julia programming   |
-| [INEVITABLE](https://twitter.com/WeAreInevitable)           | AI & Data Science Start-up Company based in England, UK      |
-
-### Telegram Channels
-
-**[`^        back to top        ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
-
-- [Open Data Science](https://t.me/opendatascience) – First Telegram Data Science channel. Covering all technical and popular staff about anything related to Data Science: AI, Big Data, Machine Learning, Statistics, general Math and the applications of former.
-- [Loss function porn](https://t.me/loss_function_porn) — Beautiful posts on DS/ML theme with video or graphic visualization.
-- [Machinelearning](https://t.me/ai_machinelearning_big_data) – Daily ML news.
-
-### Slack Communities
-
-[top](https://github.com/academic/awesome-datascience#awesome-data-science)
-
-- [DataTalks.Club](https://datatalks.club/)
-- [Women Who Code - Data Science](https://www.womenwhocode.com/datascience)
-
-### GitHub Groups
-
-- [Berkeley Institute for Data Science](https://github.com/BIDS)
-
-### Data Science Competitions
-
-Some data mining competition platforms
-
-- [Kaggle](https://www.kaggle.com/)
-- [DrivenData](https://www.drivendata.org/)
-- [Analytics Vidhya](https://datahack.analyticsvidhya.com/)
-- [InnoCentive](https://www.innocentive.com/)
-- [Microprediction](https://www.microprediction.com/python-1)
-
-## Fun
-
-- [Infographic](https://github.com/academic/awesome-datascience#infographics)
-- [Datasets](https://github.com/academic/awesome-datascience#datasets)
-- [Comics](https://github.com/academic/awesome-datascience#comics)
-
-### Infographics
+- Infographics
 
 **[`^        back to top        ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
 
@@ -1065,13 +1002,6 @@ Some data mining competition platforms
 - [5000 Images of Clothes](https://github.com/alexeygrigorev/clothing-dataset)
 - [IBB Open Portal](https://data.ibb.gov.tr/en/)
 - [The Humanitarian Data Exchange](https://data.humdata.org/)
-
-### Comics
-
-**[`^        back to top        ^`](https://github.com/academic/awesome-datascience#awesome-data-science)**
-
-- [Comic compilation](https://medium.com/@nikhil_garg/a-compilation-of-comics-explaining-statistics-data-science-and-machine-learning-eeefbae91277)
-- [Cartoons](https://www.kdnuggets.com/websites/cartoons.html)
 
 ## Other Awesome Lists
 
