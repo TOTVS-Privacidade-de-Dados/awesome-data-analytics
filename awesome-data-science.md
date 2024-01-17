@@ -4,56 +4,6 @@
 
 "Knowledge is like a lamp lit in the darkness of ignorance." - Confucius
 
-Welcome to the GitHub repository "Data Privacy and Analytics Resources"! This repository is a curated collection of readings, tools, frameworks, and essential online courses for individuals interested in delving deeper into the domains of data privacy and analytics.
-
-1. **Become a Data Scientist (Udacity)**
-   - The Udacity Data Scientist course is an option for those wanting hands-on experience in data science. It assumes an understanding of concepts like Machine Learning and proficiency in Python. Knowledge of SQL, probability, statistics, and data organization and visualization (CSV and JSON) is also important.
-   - Udacity, based in Silicon Valley, has partnerships with major names like Google, Facebook, and Amazon. The course is divided into modules, with an estimated duration of 4 months. Students can either purchase and complete the course within this period or opt for monthly payments if more time is needed.
-   - The course covers topics such as Solving Data Science Problems, Software Engineering for Data Scientists, Data Engineering for Data Scientists, Experiment Design and Recommendations, and Data Science Projects.
-2. **Data Analyst (Udacity)**
-   - The Udacity Data Analyst course is focused on individuals aspiring to become data analysts. It requires knowledge of Python and SQL.
-   - The course emphasizes learning to manage and interpret received data. It is entirely online and has a 4-month completion timeframe, with mentorship and other advantages provided by the institution.
-   - Note: Udacity courses are conducted in English, and there are no subtitles or dubbing. Non-English speakers may want to consider English courses tailored for programmers.
-3. **Applied Data Science with Python (Coursera)**
-   - Offered by Coursera in partnership with the University of Michigan, this course is one of the best in the field. It is suitable for those seeking comprehensive learning who are not yet experts in Python.
-   - The course consists of 5 modules, requiring a basic understanding of the subject matter. Modules include Introduction to Data Science in Python, Graphs and Data Representation in Python, Machine Learning in Python, Applied Text Mining in Python, and Applied Social Network Analysis in Python.
-4. **Data Science Fundamentals with Python and SQL (Coursera)**
-   - Offered by IBM on Coursera, this course is designed for beginners, covering fundamental concepts in a shorter duration.
-   - The course duration is approximately 2 months with a weekly commitment of 10 hours. It covers Tools for Data Science, Python for Data Science, AI, and Development, Python Project for Data Science, Statistics for Data Science with Python, and Database for Data Science with Python.
-5. **Data Scientist with Python (DataCamp)**
-   - The Data Scientist with Python course by DataCamp has no prerequisites for those wanting to learn Data Science. It consists of 90 hours of practical exercises and projects.
-   - The course covers approximately 25 modules, including data cleaning, importation, and manipulation using Python. It is available in English and can be purchased individually or as a group.
-6. **Data Analysis in Excel (DataCamp)**
-   - The Data Analysis in Excel course, in English, has 3 modules, with one being free. It covers essential Excel functions for data use and analysis, with 4 hours of duration and nearly 50 exercise modules.
-   - The course includes 12 video lessons on data preparation, exportation to other systems, and integration with IT sector activities.
-7. **Data Science: Visualization (edX)**
-   - The Data Science: Visualization course on edX, lasting 8 weeks, provides introductory preparation in English. Taught by Harvard's bioinformatics professor Rafael Irrizarry, it explores visualizing and interpreting data, considering biases and errors.
-   - The course teaches using ggplot2 for creating custom graphs, addressing common visualization errors, and providing an analytical perspective on collected data.
-8. **Data Privacy and Technology (Harvard)**
-   - Harvard's Data Privacy and Technology course explores technological advancements, discussing the collection and use of third-party data. It questions the extent to which privacy policies and anonymous access truly protect users.
-   - The course, lasting 5 weeks, is paid and provides access to course materials, classes, and certification. It covers global cyber legislation and delves into data usage in the market.
-9. **Power BI Expert in Practice (Viscari)**
-   - The Power BI Expert in Practice course by Viscari introduces data analysis. With Power BI, you'll learn to transform databases into dynamic reports and create dashboards.
-   - The course, with a 30-hour duration, consists of 11 modules and offers lifetime access.
-10. **Python for Finance: Investments & Data Analysis (Udemy)**
-    - The Python for Finance course on Udemy teaches risk and return calculation for investment portfolios, Matplotlib chart creation, and understanding the capital asset pricing model. It covers basic to advanced methodologies.
-    - The course includes 17 sections and 109 lectures, totaling 7 hours.
-11. **Power BI Complete – From Basic to Advanced (Udemy)**
-    - The Power BI Complete Data Science course on Udemy provides step-by-step lessons on everything you need to know about Power BI. It teaches creating dynamic dashboards, reports, charts, and maps.
-    - The course is 100% practical, consisting of 83 lectures with a duration of 10 hours.
-12. **Data Analysis and Big Data Course – Excel (Udemy)**
-    - The Data Analysis and Big Data – Excel course on Udemy offers a practical approach to data scientist tool applications, covering probability, statistics, and data analysis to solve real problems in various professional fields.
-    - The course, with a 12.5-hour duration, requires no advanced Excel knowledge but familiarity with the program.
-13. **Software Architecture, Data Science, and Cybersecurity (PUCPR)**
-    - The Software Architecture, Data Science, and Cybersecurity course at PUCPR develops skills in building systems, choosing components, directing strategies, migrating, and creating secure environments.
-    - The course, with a 20-hour duration, includes real-world questions and metacognitive strategy.
-14. **Data Science Training (Alura)**
-    - The Data Science Training course at Alura teaches analysis, statistics, modeling, and data visualization techniques. It includes access to three podcasts on the theme.
-    - The course methodology encompasses Python, libraries, and parallel tools focused on programming languages.
-    - The course has a 102-hour duration, with the involvement of five teachers.
-
-This is a shortcut path to start studying **Data Science**. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?"
-
 ![Data Science" Images – Browse 33,689 Stock Photos, Vectors ...](https://t4.ftcdn.net/jpg/02/62/17/37/360_F_262173764_3sxll45SOaGP5uEC7PukV3LHOB7H8dp2.jpg)
 
 ## Table of Contents
