@@ -10,8 +10,6 @@ Bem-vindo ao repositório do GitHub "Recursos de Privacidade de Dados e Análise
 
 ##  O que é Ciência de Dados?
 
-**[`^ voltar ao topo ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
-
 A Ciência de Dados é um dos tópicos mais quentes na paisagem da computação e da internet nos dias de hoje. As pessoas têm coletado dados de aplicativos e sistemas até hoje, e agora é o momento de analisá-los. Os próximos passos envolvem produzir sugestões a partir dos dados e criar previsões sobre o futuro. [Aqui](https://www.quora.com/Data-Science/What-is-data-science), você pode encontrar a maior pergunta sobre **Ciência de Dados** e centenas de respostas de especialistas.
 
 | Link                                                         | Visualização                                                 |
@@ -26,8 +24,6 @@ A Ciência de Dados é um dos tópicos mais quentes na paisagem da computação 
 
 ## Por onde começar?
 
-**[`^ voltar ao topo ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
-
 Embora não seja estritamente necessário, ter conhecimento em uma linguagem de programação é uma habilidade crucial para ser eficaz como cientista de dados. Atualmente, a linguagem mais popular é o *Python*, seguido de perto pelo *R*. O Python é uma linguagem de script de propósito geral que encontra aplicações em uma ampla variedade de campos. O R é uma linguagem específica de domínio para estatísticas, que contém muitas ferramentas estatísticas comuns já integradas.
 
 [Python](https://python.org/) é, de longe, a linguagem mais popular na ciência, em grande parte devido à facilidade com que pode ser usada e ao ecossistema vibrante de pacotes gerados pelos usuários. Para instalar pacotes, existem dois métodos principais: Pip (invocado como `pip install`), o gerenciador de pacotes que vem incluso com o Python, e [Anaconda](https://www.anaconda.com/) (invocado como `conda install`), um poderoso gerenciador de pacotes que pode instalar pacotes para Python, R e baixar executáveis como Git.
@@ -38,23 +34,15 @@ Ao embarcar na jornada para se tornar um cientista de dados, a escolha da lingua
 
 ## Mundo Real
 
-**[`^ voltar ao topo ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
-
 A ciência de dados é uma ferramenta poderosa utilizada em vários campos para resolver problemas do mundo real, extraindo insights e padrões de dados complexos.
 
 ### Desastre
-
-**[`^ voltar ao topo ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
 
 - [deprem-ml](https://huggingface.co/deprem-ml) [AYA: Açık Yazılım Ağı](https://linktr.ee/acikyazilimagi) (+25k desenvolvedores) está tentando ajudar na resposta a desastres usando inteligência artificial. Tudo é de código aberto [afet.org](https://afet.org/).
 
 ## Recursos de Treinamento
 
-**[`^ voltar ao topo ^`](hhttps://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
-
 Como você aprende ciência de dados? Fazendo ciência de dados, é claro! Ok, ok - isso pode não ser particularmente útil quando você está começando. Nesta seção, listamos alguns recursos de aprendizado, em uma ordem aproximada de menor para maior comprometimento - [Tutoriais](https://github.com/academic/awesome-datascience#tutorials), [Cursos Online Abertos em Massa (MOOCs)](https://github.com/academic/awesome-datascience#moocs), [Programas Intensivos](https://github.com/academic/awesome-datascience#intensive-programs) e [Faculdades](https://github.com/academic/awesome-datascience#colleges).
-
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
 
 - [1000 Data Science Projects](https://cloud.blobcity.com/#/ps/explore) you can run on the browser with IPython.
 - [#tidytuesday](https://github.com/rfordatascience/tidytuesday) A weekly data project aimed at the R ecosystem.
@@ -74,8 +62,6 @@ Como você aprende ciência de dados? Fazendo ciência de dados, é claro! Ok, o
 
 ### Free Courses
 
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
-
 - [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 - [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
 - [Genetic Algorithms OCW Course](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/lecture-1-introduction-and-scope/)
@@ -92,8 +78,6 @@ Como você aprende ciência de dados? Fazendo ciência de dados, é claro! Ok, o
 - [Hands-on Train and Deploy ML](https://github.com/Paulescu/hands-on-train-and-deploy-ml) - A hands-on course to train and deploy a serverless API that predicts crypto prices.
 
 ### MOOC's
-
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
 
 - [Coursera Introduction to Data Science](https://www.coursera.org/specializations/data-science)
 - [Data Science - 9 Steps Courses, A Specialization on Coursera](https://www.coursera.org/specializations/jhu-data-science)
@@ -135,13 +119,9 @@ Como você aprende ciência de dados? Fazendo ciência de dados, é claro! Ok, o
 
 ### Intensive Programs
 
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
-
 - [S2DS](https://www.s2ds.org/)
 
 ### Colleges
-
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
 
 - [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 - [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
@@ -162,13 +142,9 @@ Como você aprende ciência de dados? Fazendo ciência de dados, é claro! Ok, o
 
 ## The Data Science Toolbox
 
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
-
 This section is a collection of packages, tools, algorithms, and other useful items in the data science world.
 
 ### Algorithms
-
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
 
 These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
 
@@ -261,8 +237,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 ### General Machine Learning Packages
 
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
-
 - [scikit-learn](https://scikit-learn.org/)
 - [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn)
 - [sklearn-expertsys](https://github.com/tmadl/sklearn-expertsys)
@@ -350,8 +324,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 #### Visualization Tools
 
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
-
 - [altair](https://altair-viz.github.io/)
 - [addepar](https://opensource.addepar.com/ember-charts/#/overview)
 - [amcharts](https://www.amcharts.com/)
@@ -394,8 +366,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [geomap](https://pypi.org/project/geomap/)
 
 ### Miscellaneous Tools
-
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
 
 | Link                                                         | Descrição                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -514,8 +484,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 ### Books
 
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
-
 - [Data Science From Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python-dp-1492041130/dp/1492041130/ref=dp_ob_title_bk)
 - [Artificial Intelligence with Python - Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_tutorial.pdf)
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
@@ -608,15 +576,11 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 ### Newsletters
 
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
-
 - [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 - [DataTalks.Club](https://datatalks.club/). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
 - [The Analytics Engineering Roundup](https://roundup.getdbt.com/about). A newsletter about data science. [Archive](https://roundup.getdbt.com/archive).
 
 - ###  Blogueiros
-
-  **[`^ voltar ao topo ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
 
   - [Wes McKinney](https://wesmckinney.com/archives.html) - Arquivos de Wes McKinney.
   - [Matthew Russell](https://miningthesocialweb.com/) - Mining The Social Web.
@@ -706,8 +670,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - ###  Apresentações
 
-  **[`^ voltar ao topo ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
-
   - [Como se Tornar um Cientista de Dados](https://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
   - [Introdução à Ciência de Dados](https://www.slideshare.net/NikoVuokko/introduction-to-data-science-25391618)
   - [Introdução à Ciência de Dados para Big Data Empresarial](https://www.slideshare.net/pacoid/intro-to-data-science-for-enterprise-big-data)
@@ -718,8 +680,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
   - [Construindo Startups de Dados: Rápidas, Grandes e Focadas](https://www.slideshare.net/medriscoll/driscoll-strata-buildingdatastartups25may2011clean)
 
 ### Podcasts
-
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
 
 - [AI at Home](https://podcasts.apple.com/us/podcast/data-science-at-home/id1069871378)
 - [AI Today](https://www.cognilytica.com/aitoday/)
@@ -750,8 +710,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [How AI Built This](https://how-ai-built-this.captivate.fm/)
 
 ### YouTube Videos & Channels
-
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
 
 - [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
 - [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
@@ -786,8 +744,6 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 ## Socialize
 
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
-
 Below are some Social Media links. Connect with other data scientists!
 
 - [Facebook Accounts](https://github.com/academic/awesome-datascience#facebook-accounts)
@@ -798,8 +754,6 @@ Below are some Social Media links. Connect with other data scientists!
 - [Data Science Competitions](https://github.com/academic/awesome-datascience#data-science-competitions)
 
 ### Facebook Accounts
-
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
 
 - [Data](https://www.facebook.com/data)
 - [Big Data Scientist](https://www.facebook.com/Bigdatascientist)
@@ -825,8 +779,6 @@ Below are some Social Media links. Connect with other data scientists!
 
 - Infographics
 
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
-
 | Preview                                                      | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | [![img](https://camo.githubusercontent.com/5acf21db657635da1d9513bbe68f9eef34cc2ff448b8619f35ac5913ae19e0af/68747470733a2f2f692e696d6775722e636f6d2f304f6f4c6161352e706e67)](https://i.imgur.com/0OoLaa5.png) | [Key differences of a data scientist vs. data engineer](https://searchbusinessanalytics.techtarget.com/feature/Key-differences-of-a-data-scientist-vs-data-engineer) |
@@ -844,8 +796,6 @@ Below are some Social Media links. Connect with other data scientists!
 | [![Data Fallacies To Avoid](https://camo.githubusercontent.com/31aa6d8f8687769a53f5b628a72d0792ee54119d286117a3f70a909aa33d42fc/68747470733a2f2f646174612d6c697465726163792e6765636b6f626f6172642e636f6d2f6173736574732f696d672f646174612d66616c6c61636965732d746f2d61766f69642d707265766965772e6a7067)](https://data-literacy.geckoboard.com/poster/) | A simple and friendly way of teaching your non-data scientist/non-statistician colleagues [how to avoid mistakes with data](https://data-literacy.geckoboard.com/poster/). From Geckoboard's [Data Literacy Lessons](https://data-literacy.geckoboard.com/). |
 
 ### Datasets
-
-**[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
 
 - [Academic Torrents](https://academictorrents.com/)
 - [ADS-B Exchange](https://www.adsbexchange.com/data-samples/) - Specific datasets for aircraft and Automatic Dependent Surveillance-Broadcast (ADS-B) sources.
