@@ -3,8 +3,6 @@
 **Data Privacy and Analytics Resources**
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 "O conhecimento é como uma lâmpada acesa na escuridão da ignorância." - Confúcio
 
