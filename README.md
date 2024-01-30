@@ -8,7 +8,7 @@ Bem-vindo ao repositório do GitHub "Recursos de Privacidade de Dados e Análise
 
 ## Table of Contents
 
-- [What is Data Science?](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics#O-que-e-Ciencia-de-Dados?)
+- [What is Data Science?](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics#o-que-é-ciência-de-dados)
 - [Where do I Start?](https://github.com/academic/awesome-datascience#where-do-i-start)
 - Training Resources
   - [Tutorials](https://github.com/academic/awesome-datascience#tutorials)
