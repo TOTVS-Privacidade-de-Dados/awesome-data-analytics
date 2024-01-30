@@ -2,58 +2,56 @@
 
 **Data Privacy and Analytics Resources**
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
 "O conhecimento é como uma lâmpada acesa na escuridão da ignorância." - Confúcio
 
 Bem-vindo ao repositório do GitHub "Recursos de Privacidade de Dados e Análise"! Este repositório é uma coleção selecionada de leituras, ferramentas, estruturas e cursos online essenciais para indivíduos interessados em aprofundar-se nos domínios da privacidade de dados e análise.
 
 ## Table of Contents
 
-- [What is Data Science?](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics#o-que-é-ciência-de-dados)
-- [Where do I Start?](https://github.com/academic/awesome-datascience#where-do-i-start)
-- Training Resources
-  - [Tutorials](https://github.com/academic/awesome-datascience#tutorials)
-  - [Free Courses](https://github.com/academic/awesome-datascience#free-courses)
-  - [Massively Open Online Courses](https://github.com/academic/awesome-datascience#moocs)
-  - [Intensive Programs](https://github.com/academic/awesome-datascience#intensive-programs)
-  - [Colleges](https://github.com/academic/awesome-datascience#colleges)
-- The Data Science Toolbox
-  - Algorithms
-    - [Supervised Learning](https://github.com/academic/awesome-datascience#supervised-learning)
-    - [Unsupervised Learning](https://github.com/academic/awesome-datascience#unsupervised-learning)
-    - [Semi-Supervised Learning](https://github.com/academic/awesome-datascience#semi-supervised-learning)
-    - [Reinforcement Learning](https://github.com/academic/awesome-datascience#reinforcement-learning)
-    - [Data Mining Algorithms](https://github.com/academic/awesome-datascience#data-mining-algorithms)
-    - [Deep Learning Architectures](https://github.com/academic/awesome-datascience#deep-learning-architectures)
-  - [General Machine Learning Packages](https://github.com/academic/awesome-datascience#general-machine-learning-packages)
-  - Deep Learning Packages
-    - [PyTorch Ecosystem](https://github.com/academic/awesome-datascience#pytorch-ecosystem)
-    - [TensorFlow Ecosystem](https://github.com/academic/awesome-datascience#tensorflow-ecosystem)
-    - [Keras Ecosystem](https://github.com/academic/awesome-datascience#keras-ecosystem)
-  - [Visualization Tools](https://github.com/academic/awesome-datascience#visualization-tools)
-  - [Miscellaneous Tools](https://github.com/academic/awesome-datascience#miscellaneous-tools)
-- Literature and Media
-  - Books
-    - [Book Deals (Affiliated)](https://github.com/academic/awesome-datascience#book-deals-affiliated-)
-  - [Journals, Publications, and Magazines](https://github.com/academic/awesome-datascience#journals-publications-and-magazines)
-  - [Newsletters](https://github.com/academic/awesome-datascience#newsletters)
-  - [Bloggers](https://github.com/academic/awesome-datascience#bloggers)
-  - [Presentations](https://github.com/academic/awesome-datascience#presentations)
+- [O que é ciência de dados?](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics#o-que-é-ciência-de-dados)
+- [Por onde eu começo?](https://github.com/academic/awesome-datascience#where-do-i-start)
+- Recursos de treinamento
+  - [Tutoriais](https://github.com/academic/awesome-datascience#tutorials)
+  - [Cursos Gratuitos](https://github.com/academic/awesome-datascience#free-courses)
+  - [Cursos online](https://github.com/academic/awesome-datascience#moocs)
+  - [Programas Intensivos](https://github.com/academic/awesome-datascience#intensive-programs)
+  - [Faculdades](https://github.com/academic/awesome-datascience#colleges)
+- A caixa de ferramentas da ciência de dados
+  - Algoritmos
+    - [Aprendizagem Supervisionada](https://github.com/academic/awesome-datascience#supervised-learning)
+    - [Aprendizagem não supervisionada](https://github.com/academic/awesome-datascience#unsupervised-learning)
+    - [Aprendizagem Semi-Supervisionada](https://github.com/academic/awesome-datascience#semi-supervised-learning)
+    - [Aprendizagem por Reforço](https://github.com/academic/awesome-datascience#reinforcement-learning)
+    - [Algoritmos de mineração de dados](https://github.com/academic/awesome-datascience#data-mining-algorithms)
+    - [Arquiteturas de aprendizagem profunda](https://github.com/academic/awesome-datascience#deep-learning-architectures)
+  - [Pacotes gerais de aprendizado de máquina](https://github.com/academic/awesome-datascience#general-machine-learning-packages)
+  - Pacotes de aprendizagem profunda
+    - [Ecossistema PyTorch](https://github.com/academic/awesome-datascience#pytorch-ecosystem)
+    - [Ecossistema TensorFlow](https://github.com/academic/awesome-datascience#tensorflow-ecosystem)
+    - [Ecossistema Keras](https://github.com/academic/awesome-datascience#keras-ecosystem)
+  - [Ferramentas de visualização](https://github.com/academic/awesome-datascience#visualization-tools)
+  - [Ferramentas diversass](https://github.com/academic/awesome-datascience#miscellaneous-tools)
+- Literatura e Mídia
+  - Livros
+    - [Ofertas de livros (afiliados)](https://github.com/academic/awesome-datascience#book-deals-affiliated-)
+  - [Boletins Informativos](https://github.com/academic/awesome-datascience#journals-publications-and-magazines)
+  - [Apresentações](https://github.com/academic/awesome-datascience#newsletters)
+  - [Blogueiros](https://github.com/academic/awesome-datascience#bloggers)
+  - [Apresentações](https://github.com/academic/awesome-datascience#presentations)
   - [Podcasts](https://github.com/academic/awesome-datascience#podcasts)
-  - [YouTube Videos & Channels](https://github.com/academic/awesome-datascience#youtube-videos--channels)
-- Socialize
-  - [Facebook Accounts](https://github.com/academic/awesome-datascience#facebook-accounts)
-  - [Twitter Accounts](https://github.com/academic/awesome-datascience#twitter-accounts)
-  - [Telegram Channels](https://github.com/academic/awesome-datascience#telegram-channels)
-  - [Slack Communities](https://github.com/academic/awesome-datascience#slack-communities)
-  - [GitHub Groups](https://github.com/academic/awesome-datascience#github-groups)
-  - [Data Science Competitions](https://github.com/academic/awesome-datascience#data-science-competitions)
-- Fun
-  - [Infographics](https://github.com/academic/awesome-datascience#infographics)
-  - [Datasets](https://github.com/academic/awesome-datascience#datasets)
-  - [Comics](https://github.com/academic/awesome-datascience#comics)
-- Other Awesome Lists
+  - [Vídeos e canais do YouTube](https://github.com/academic/awesome-datascience#youtube-videos--channels)
+- Socializar
+  - [Contas do Facebook](https://github.com/academic/awesome-datascience#facebook-accounts)
+  - [Contas do Twitter](https://github.com/academic/awesome-datascience#twitter-accounts)
+  - [Canais de telegram](https://github.com/academic/awesome-datascience#telegram-channels)
+  - [Comunidades Slacks](https://github.com/academic/awesome-datascience#slack-communities)
+  - [Grupos GitHub](https://github.com/academic/awesome-datascience#github-groups)
+  - [Competições de Ciência de Dados](https://github.com/academic/awesome-datascience#data-science-competitions)
+- Diversão
+  - [Infográficos](https://github.com/academic/awesome-datascience#infographics)
+  - [Conjuntos de dados](https://github.com/academic/awesome-datascience#datasets)
+  - [Histórias em quadrinhos](https://github.com/academic/awesome-datascience#comics)
+- Outras listas incríveis
   - [Hobby](https://github.com/academic/awesome-datascience#hobby)
 
 
@@ -111,7 +109,7 @@ Como você aprende ciência de dados? Fazendo ciência de dados, é claro! Ok, o
 - [Understand and Know Machine Learning Engineering by Building Solid Projects](http://mlzoomcamp.com/)
 - [12 free Data Science projects to practice Python and Pandas](https://www.datawars.io/articles/12-free-data-science-projects-to-practice-python-and-pandas)
 
-### Free Courses
+### Cursos Gratuitos
 
 - [Data Scientist with R](https://www.datacamp.com/tracks/data-scientist-with-r)
 - [Data Scientist with Python](https://www.datacamp.com/tracks/data-scientist-with-python)
@@ -168,11 +166,11 @@ Como você aprende ciência de dados? Fazendo ciência de dados, é claro! Ok, o
 - [Programming with Julia](https://www.udemy.com/course/programming-with-julia/)
 - [Scaler Data Science & Machine Learning Program](https://www.scaler.com/data-science-course/)
 
-### Intensive Programs
+### Programas Intensivos
 
 - [S2DS](https://www.s2ds.org/)
 
-### Colleges
+### Faculdades
 
 - [A list of colleges and universities offering degrees in data science.](https://github.com/ryanswanstrom/awesome-datascience-colleges)
 - [Data Science Degree @ Berkeley](https://ischoolonline.berkeley.edu/data-science/)
@@ -195,17 +193,17 @@ Como você aprende ciência de dados? Fazendo ciência de dados, é claro! Ok, o
 
 This section is a collection of packages, tools, algorithms, and other useful items in the data science world.
 
-### Algorithms
+### A caixa de ferramentas da ciência de dados
 
 These are some Machine Learning and Data Mining algorithms and models help you to understand your data and derive meaning from it.
 
-#### Three kinds of Machine Learning Systems
+#### Três tipos de sistemas de aprendizado de máquina
 
 - Based on training with human supervision
 - Based on learning incrementally on fly
 - Based on data points comparison and pattern detection
 
-#### Supervised Learning
+#### Aprendizagem Supervisionada
 
 - [Regression](https://en.wikipedia.org/wiki/Regression)
 - [Linear Regression](https://en.wikipedia.org/wiki/Linear_regression)
@@ -215,28 +213,28 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Multivariate Adaptive Regression Splines](https://en.wikipedia.org/wiki/Multivariate_adaptive_regression_spline)
 - [Softmax Regression](https://d2l.ai/chapter_linear-classification/softmax-regression.html)
 - [Locally Estimated Scatterplot Smoothing](https://en.wikipedia.org/wiki/Local_regression)
-- Classification
+- Classificação
   - [k-nearest neighbor](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
   - [Support Vector Machines](https://en.wikipedia.org/wiki/Support_vector_machine)
   - [Decision Trees](https://en.wikipedia.org/wiki/Decision_tree)
   - [ID3 algorithm](https://en.wikipedia.org/wiki/ID3_algorithm)
   - [C4.5 algorithm](https://en.wikipedia.org/wiki/C4.5_algorithm)
-- Ensemble Learning
+- Aprendizagem em conjunto
   - [Boosting](https://en.wikipedia.org/wiki/Boosting_(machine_learning))
   - [Stacking](https://machinelearningmastery.com/stacking-ensemble-machine-learning-with-python)
   - [Bagging](https://en.wikipedia.org/wiki/Bootstrap_aggregating)
   - [Random Forest](https://en.wikipedia.org/wiki/Random_forest)
   - [AdaBoost](https://en.wikipedia.org/wiki/AdaBoost)
 
-#### Unsupervised Learning
+#### Aprendizagem não supervisionada
 
-- Clustering
+- Agrupamento
   - [Hierchical clustering](https://scikit-learn.org/stable/modules/clustering.html#hierarchical-clustering)
   - [k-means](https://scikit-learn.org/stable/modules/clustering.html#k-means)
   - [Density-based clustering](https://scikit-learn.org/stable/modules/clustering.html#dbscan)
   - [Fuzzy clustering](https://en.wikipedia.org/wiki/Fuzzy_clustering)
   - [Mixture models](https://en.wikipedia.org/wiki/Mixture_model)
-- Dimension Reduction
+- Redução de dimensão
   - [Principal Component Analysis (PCA)](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
   - [t-SNE; t-distributed Stochastic Neighbor Embedding](https://scikit-learn.org/stable/modules/decomposition.html#principal-component-analysis-pca)
   - [Factor Analysis](https://scikit-learn.org/stable/modules/decomposition.html#factor-analysis)
@@ -246,7 +244,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Adaptive resonance theory](https://en.wikipedia.org/wiki/Adaptive_resonance_theory)
 - [Hidden Markov Models (HMM)](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 
-#### Semi-Supervised Learning
+#### Aprendizagem Semi-Supervisionada
 
 - S3VM
 - [Clustering](https://en.wikipedia.org/wiki/Weak_supervision#Cluster_assumption)
@@ -255,13 +253,13 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Laplacian regularization](https://en.wikipedia.org/wiki/Weak_supervision#Laplacian_regularization)
 - [Heuristic approaches](https://en.wikipedia.org/wiki/Weak_supervision#Heuristic_approaches)
 
-#### Reinforcement Learning
+#### Aprendizagem por Reforço
 
 - [Q Learning](https://en.wikipedia.org/wiki/Q-learning)
 - [SARSA (State-Action-Reward-State-Action) algorithm](https://en.wikipedia.org/wiki/State–action–reward–state–action)
 - [Temporal difference learning](https://en.wikipedia.org/wiki/Temporal_difference_learning#:~:text=Temporal difference (TD) learning refers,estimate of the value function.)
 
-#### Data Mining Algorithms
+#### Algoritmos de mineração de dados
 
 - [C4.5](https://en.wikipedia.org/wiki/C4.5_algorithm)
 - [k-Means](https://en.wikipedia.org/wiki/K-means_clustering)
@@ -274,7 +272,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 - [CART (Classification and Regression Trees)](https://en.wikipedia.org/wiki/Decision_tree_learning)
 
-#### Deep Learning architectures
+#### Arquiteturas de aprendizagem profunda
 
 - [Multilayer Perceptron](https://en.wikipedia.org/wiki/Multilayer_perceptron)
 - [Convolutional Neural Network (CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network)
@@ -286,7 +284,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Transformer](https://www.tensorflow.org/text/tutorials/transformer)
 - [Conditional Random Field (CRF)](https://towardsdatascience.com/conditional-random-fields-explained-e5b8256da776)
 
-### General Machine Learning Packages
+### Pacotes gerais de aprendizado de máquina
 
 - [scikit-learn](https://scikit-learn.org/)
 - [scikit-multilearn](https://github.com/scikit-multilearn/scikit-multilearn)
@@ -319,9 +317,9 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Deepchecks](https://github.com/deepchecks/deepchecks)
 - [scikit-survival](https://scikit-survival.readthedocs.io/en/stable)
 
-### Deep Learning Packages
+### Pacotes de aprendizagem profunda
 
-#### PyTorch Ecosystem
+#### Ecossistema PyTorch
 
 - [PyTorch](https://github.com/pytorch/pytorch)
 - [torchvision](https://github.com/pytorch/vision)
@@ -341,7 +339,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Yolov5](https://github.com/ultralytics/yolov5)
 - [Yolov8](https://github.com/ultralytics/ultralytics)
 
-#### TensorFlow Ecosystem
+#### Ecossistema TensorFlow
 
 - [TensorFlow](https://github.com/tensorflow/tensorflow)
 - [TensorLayer](https://github.com/tensorlayer/TensorLayer)
@@ -361,7 +359,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [TF-Agents](https://github.com/tensorflow/agents)
 - [TensorForce](https://github.com/tensorforce/tensorforce)
 
-#### Keras Ecosystem
+#### Ecossistema Keras
 
 - [Keras](https://keras.io/)
 - [keras-contrib](https://github.com/keras-team/keras-contrib)
@@ -373,7 +371,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [keras-rl](https://github.com/keras-rl/keras-rl)
 - [Talos](https://github.com/autonomio/talos)
 
-#### Visualization Tools
+#### Ferramentas de visualização
 
 - [altair](https://altair-viz.github.io/)
 - [addepar](https://opensource.addepar.com/ember-charts/#/overview)
@@ -416,7 +414,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [TensorWatch](https://github.com/microsoft/tensorwatch)
 - [geomap](https://pypi.org/project/geomap/)
 
-### Miscellaneous Tools
+### Ferramentas diversas
 
 | Link                                                         | Descrição                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -533,7 +531,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 
 - **YouTube - Siraj Raval** - Siraj Raval
 
-### Books
+### Livros
 
 - [Data Science From Scratch: First Principles with Python](https://www.amazon.com/Data-Science-Scratch-Principles-Python-dp-1492041130/dp/1492041130/ref=dp_ob_title_bk)
 - [Artificial Intelligence with Python - Tutorialspoint](https://www.tutorialspoint.com/artificial_intelligence_with_python/artificial_intelligence_with_python_tutorial.pdf)
@@ -607,7 +605,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [An Introduction to Statistical Learning](https://www.statlearning.com/) - Download Page
 - [Machine Learning For Absolute Beginners](https://www.amazon.in/Machine-Learning-Absolute-Beginners-Introduction-ebook/dp/B07335JNW1)
 
-### Journals, Publications and Magazines
+### Periódicos, Publicações e Revistas
 
 **[`^        back to top        ^`](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics/blob/main/awesome-data-science.md)**
 
@@ -625,7 +623,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Towards Data Science Genetic Algorithm Topic](https://towardsdatascience.com/introduction-to-genetic-algorithms-including-example-code-e396e98d8bf3#:~:text=A genetic algorithm is a,offspring of the next generation.) -Genetic Algorithm related Publications towards Data Science
 - [all AI news](https://allainews.com/) - The AI/ML/Big Data news aggregator platform
 
-### Newsletters
+### Boletins Informativos
 
 - [AI Digest](https://aidigest.net/). A weekly newsletter to keep up to date with AI, machine learning, and data science. [Archive](https://aidigest.net/digests).
 - [DataTalks.Club](https://datatalks.club/). A weekly newsletter about data-related things. [Archive](https://us19.campaign-archive.com/home/?u=0d7822ab98152f5afc118c176&id=97178021aa).
@@ -760,7 +758,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [What's The Point](https://fivethirtyeight.com/tag/whats-the-point/)
 - [How AI Built This](https://how-ai-built-this.captivate.fm/)
 
-### YouTube Videos & Channels
+### Vídeos e canais do YouTube
 
 - [What is machine learning?](https://www.youtube.com/watch?v=WXHM_i-fgGo)
 - [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
@@ -793,7 +791,7 @@ These are some Machine Learning and Data Mining algorithms and models help you t
 - [Deep Learning Architectures](https://www.youtube.com/playlist?list=PLv8Cp2NvcY8DpVcsmOT71kymgMmcr59Mf)
 - [Time Series Modelling and Analysis](https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK)
 
-## Socialize
+## Socializar
 
 Below are some Social Media links. Connect with other data scientists!
 
@@ -804,7 +802,7 @@ Below are some Social Media links. Connect with other data scientists!
 - [GitHub Groups](https://github.com/academic/awesome-datascience#github-groups)
 - [Data Science Competitions](https://github.com/academic/awesome-datascience#data-science-competitions)
 
-### Facebook Accounts
+### Contas do Facebook
 
 - [Data](https://www.facebook.com/data)
 - [Big Data Scientist](https://www.facebook.com/Bigdatascientist)
@@ -828,7 +826,7 @@ Below are some Social Media links. Connect with other data scientists!
 - [Veri Bilimi Istanbul](https://www.facebook.com/groups/veribilimiistanbul/)
 - [The Data Science Blog](https://www.facebook.com/theDataScienceBlog/)
 
-- Infographics
+- Infográficos
 
 | Preview                                                      | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -905,7 +903,7 @@ Below are some Social Media links. Connect with other data scientists!
 - [IBB Open Portal](https://data.ibb.gov.tr/en/)
 - [The Humanitarian Data Exchange](https://data.humdata.org/)
 
-## Other Awesome Lists
+## Outras listas incríveis
 
 - Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
@@ -938,6 +936,3 @@ Below are some Social Media links. Connect with other data scientists!
 - [Top Future Trends in Data Science in 2023](https://medium.com/the-modern-scientist/top-future-trends-in-data-science-in-2023-3e616c8998b8)
 - [How Generative AI Is Changing Creative Work](https://hbr.org/2022/11/how-generative-ai-is-changing-creative-work)
 - [What is generative AI?](https://www.techtarget.com/searchenterpriseai/definition/generative-AI)
-
-### 
-
