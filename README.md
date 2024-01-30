@@ -2,6 +2,10 @@
 
 **Data Privacy and Analytics Resources**
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 "O conhecimento é como uma lâmpada acesa na escuridão da ignorância." - Confúcio
 
 Bem-vindo ao repositório do GitHub "Recursos de Privacidade de Dados e Análise"! Este repositório é uma coleção selecionada de leituras, ferramentas, estruturas e cursos online essenciais para indivíduos interessados em aprofundar-se nos domínios da privacidade de dados e análise.
