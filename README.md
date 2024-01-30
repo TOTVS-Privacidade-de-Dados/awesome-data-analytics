@@ -6,6 +6,55 @@
 
 Bem-vindo ao repositório do GitHub "Recursos de Privacidade de Dados e Análise"! Este repositório é uma coleção selecionada de leituras, ferramentas, estruturas e cursos online essenciais para indivíduos interessados em aprofundar-se nos domínios da privacidade de dados e análise.
 
+## Table of Contents
+
+- [What is Data Science?](https://github.com/TOTVS-Privacidade-de-Dados/awesome-data-analytics#O-que-e-Ciencia-de-Dados?)
+- [Where do I Start?](https://github.com/academic/awesome-datascience#where-do-i-start)
+- Training Resources
+  - [Tutorials](https://github.com/academic/awesome-datascience#tutorials)
+  - [Free Courses](https://github.com/academic/awesome-datascience#free-courses)
+  - [Massively Open Online Courses](https://github.com/academic/awesome-datascience#moocs)
+  - [Intensive Programs](https://github.com/academic/awesome-datascience#intensive-programs)
+  - [Colleges](https://github.com/academic/awesome-datascience#colleges)
+- The Data Science Toolbox
+  - Algorithms
+    - [Supervised Learning](https://github.com/academic/awesome-datascience#supervised-learning)
+    - [Unsupervised Learning](https://github.com/academic/awesome-datascience#unsupervised-learning)
+    - [Semi-Supervised Learning](https://github.com/academic/awesome-datascience#semi-supervised-learning)
+    - [Reinforcement Learning](https://github.com/academic/awesome-datascience#reinforcement-learning)
+    - [Data Mining Algorithms](https://github.com/academic/awesome-datascience#data-mining-algorithms)
+    - [Deep Learning Architectures](https://github.com/academic/awesome-datascience#deep-learning-architectures)
+  - [General Machine Learning Packages](https://github.com/academic/awesome-datascience#general-machine-learning-packages)
+  - Deep Learning Packages
+    - [PyTorch Ecosystem](https://github.com/academic/awesome-datascience#pytorch-ecosystem)
+    - [TensorFlow Ecosystem](https://github.com/academic/awesome-datascience#tensorflow-ecosystem)
+    - [Keras Ecosystem](https://github.com/academic/awesome-datascience#keras-ecosystem)
+  - [Visualization Tools](https://github.com/academic/awesome-datascience#visualization-tools)
+  - [Miscellaneous Tools](https://github.com/academic/awesome-datascience#miscellaneous-tools)
+- Literature and Media
+  - Books
+    - [Book Deals (Affiliated)](https://github.com/academic/awesome-datascience#book-deals-affiliated-)
+  - [Journals, Publications, and Magazines](https://github.com/academic/awesome-datascience#journals-publications-and-magazines)
+  - [Newsletters](https://github.com/academic/awesome-datascience#newsletters)
+  - [Bloggers](https://github.com/academic/awesome-datascience#bloggers)
+  - [Presentations](https://github.com/academic/awesome-datascience#presentations)
+  - [Podcasts](https://github.com/academic/awesome-datascience#podcasts)
+  - [YouTube Videos & Channels](https://github.com/academic/awesome-datascience#youtube-videos--channels)
+- Socialize
+  - [Facebook Accounts](https://github.com/academic/awesome-datascience#facebook-accounts)
+  - [Twitter Accounts](https://github.com/academic/awesome-datascience#twitter-accounts)
+  - [Telegram Channels](https://github.com/academic/awesome-datascience#telegram-channels)
+  - [Slack Communities](https://github.com/academic/awesome-datascience#slack-communities)
+  - [GitHub Groups](https://github.com/academic/awesome-datascience#github-groups)
+  - [Data Science Competitions](https://github.com/academic/awesome-datascience#data-science-competitions)
+- Fun
+  - [Infographics](https://github.com/academic/awesome-datascience#infographics)
+  - [Datasets](https://github.com/academic/awesome-datascience#datasets)
+  - [Comics](https://github.com/academic/awesome-datascience#comics)
+- Other Awesome Lists
+  - [Hobby](https://github.com/academic/awesome-datascience#hobby)
+
+
 ![Data Science" Images – Browse 33,689 Stock Photos, Vectors ...](https://t4.ftcdn.net/jpg/02/62/17/37/360_F_262173764_3sxll45SOaGP5uEC7PukV3LHOB7H8dp2.jpg)
 
 ##  O que é Ciência de Dados?
